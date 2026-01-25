@@ -1,0 +1,75 @@
+# Site settings
+title: "COALAB Laboratory"
+description: "Cognition, Oral & Written Language Disorders, and AI Laboratory - Focusing on language disorders through speech-language pathology, developmental neuroscience, and artificial intelligence"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://coalab.org" # the base hostname & protocol for your site
+github_username: "Peter-awe"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  team:
+    output: true
+    permalink: /team/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Theme (if using)
+# theme: minima
+
+# Custom variables
+lab_name: "COALAB"
+lab_full_name: "Cognition, Oral & Written Language Disorders, and AI Laboratory"
+lab_tagline: "Integrates SLP, Neuroscience, and AI to study language disorders"
+lab_primary_color: "#0057ac"
+lab_secondary_color: "#1a73e8"
+lab_background_color: "#f8f9fa"
+favicon_path: "/assets/img/favicon.svg"
