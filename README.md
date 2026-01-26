@@ -5,7 +5,7 @@ This is the official website for the Computational and Applied Linguistics Labor
 ## Website Structure
 
 - **Home** (`index.html`) - Overview of the lab, research highlights, featured projects, latest news
-- **Research** (`research.md`) - Detailed description of research areas and facilities
+- **Research** (`research.md`) - Detailed description of research areas 
 - **Projects** (`projects.md`) - Current and completed research projects
 - **Publications** (`publications.md`) - List of publications by year
 - **Team** (`team.md`) - Lab members including PI, postdocs, students
