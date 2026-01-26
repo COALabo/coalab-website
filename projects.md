@@ -6,23 +6,41 @@ permalink: /projects/
 
 # Research Projects
 
-Our lab conducts research across multiple projects that span computational linguistics, bilingualism, and cognitive science. Below are some of our current and recent projects.
+Our lab conducts research across multiple projects that span computational speech-language pathology, neuroscience, and cognitive science. Below are some of our current and recent projects.
 
 ## Active Projects
 
 <div class="row">
-{% assign active_projects = site.projects | where: "status", "active" %}
+{% assign active_projects = site.projects | where: "status", "Ongoing" %}
 {% for project in active_projects %}
     <div class="col-md-6 mb-4">
         <div class="card h-100">
             <div class="card-body">
-                <h3 class="card-title h4"><a href="{{ project.url | relative_url }}" class="text-decoration-none">{{ project.title }}</a></h3>
-                <p class="card-text">{{ project.excerpt }}</p>
+                <h3 class="card-title h4">
+                  <a href="{{ project.url | relative_url }}" class="text-decoration-none">{{ project.title }}</a>
+                </h3>
+
+                <p class="card-text">{{ project.summary | default: project.excerpt }}</p>
+
+                {% if project.funding %}
+                  <p class="card-text mb-1"><strong>Funding:</strong> {{ project.funding | join: "; " }}</p>
+                {% endif %}
+
+                {% if project.pi %}
+                  <p class="card-text mb-1"><strong>PI:</strong> {{ project.pi }}</p>
+                {% endif %}
+
+                {% if project.team %}
+                  <p class="card-text mb-0"><strong>Team:</strong> {{ project.team | join: ", " }}</p>
+                {% endif %}
+
+                {% if project.tags %}
                 <div class="mt-3">
                     {% for tag in project.tags %}
                     <span class="badge bg-light text-dark border me-1">{{ tag }}</span>
                     {% endfor %}
                 </div>
+                {% endif %}
             </div>
             <div class="card-footer bg-transparent border-top-0">
                 <a href="{{ project.url | relative_url }}" class="btn btn-primary btn-sm">Read More</a>
