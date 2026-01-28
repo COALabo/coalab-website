@@ -6,7 +6,7 @@ permalink: /team/
 
 # Our Team
 
-COALAB brings together researchers from diverse backgrounds including linguistics, computer science, psychology, and cognitive science. We value interdisciplinary collaboration and innovative approaches to understanding language.
+COALab brings together researchers from diverse backgrounds across speech-language pathology, developmental neuroscience, and artificial intelligence. We value interdisciplinary collaboration and clinically grounded research to better understand language development and to improve assessment and intervention for children with speech, language, and reading difficulties.
 
 ## Principal Investigator
 
@@ -16,8 +16,15 @@ COALAB brings together researchers from diverse backgrounds including linguistic
             <img src="/assets/img/team/selcuk-guven.png" alt="Dr. Selçuk Güven" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Dr. Selçuk Güven</h4>
-                <p class="card-subtitle">Principal Investigator<br>Assistant Professor, Faculty of Medicine, University of Montreal</p>
-                <p class="card-text">Affiliated Researcher, CHU Sainte-Justine Research Center</p>
+                <p class="card-subtitle">
+                    Principal Investigator<br>
+                    Assistant Professor, Faculty of Medicine<br>
+                    Université de Montréal
+                </p>
+                <p class="card-text">
+                    Regular Researcher, Centre de recherche Azrieli du CHU Sainte-Justine<br>
+                    Brain and Child Development Axis
+                </p>
                 <div class="mt-3">
                     <a href="mailto:orhan.selcuk.guven@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
                     <a href="https://sites.google.com/view/coalabo/home" class="btn btn-outline-primary btn-sm">Website</a>
@@ -25,25 +32,70 @@ COALAB brings together researchers from diverse backgrounds including linguistic
             </div>
         </div>
     </div>
+
     <div class="col-md-9">
         <h3>About Dr. Güven</h3>
-        <p>Dr. Güven's primary area of interest revolves around comprehensively understanding speech-language impairments observed in various neurodevelopmental disorders. He is deeply committed to enhancing the diagnosis and treatment of these conditions by employing computational and neuropsychological methodologies.</p>
-        
-        <p>His overarching aim is to advance our comprehension of the intricate nature and underlying mechanisms of speech and language disorders in children. Through leveraging artificial intelligence and machine learning techniques, his meticulous exploration of these disorders holds the potential to redefine their diagnosis and treatment paradigms, marking the onset of precision medicine within this domain.</p>
-        
+
+        <p>
+            Dr. Selçuk Güven is a speech-language pathologist and researcher whose work focuses on understanding the cognitive, neural, and computational mechanisms underlying speech, language, and reading disorders in children. He leads COALab with the goal of improving how language disorders are identified, characterized, and treated—particularly in diverse and bilingual populations.
+        </p>
+
+        <p>
+            His research integrates clinical speech-language pathology, developmental neuroscience, and artificial intelligence. By combining behavioral assessment, child-friendly neuroimaging, and computational modeling, his work aims to move beyond broad diagnostic categories and toward more precise, individualized approaches to assessment and intervention.
+        </p>
+
+        <p>
+            Dr. Güven’s current projects include voice-based AI tools for early identification of speech-language disorders, Bayesian and computational models of dyslexia across languages, and reinforcement-learning approaches to personalized speech-language therapy, developed in close collaboration with clinicians.
+        </p>
+
+        <h5>Academic Leadership &amp; Service</h5>
+
+        <p>
+            Dr. Güven is the holder of the <strong>FRQS Junior Research Scholar – Artificial Intelligence in Health (Chercheur boursier en IA – Junior 1)</strong>, a competitive award supporting innovative research at the intersection of AI and health sciences.
+        </p>
+
+        <p>
+            He currently serves as <strong>Associate Editor</strong> for the
+            <em>Journal of Speech, Language, and Hearing Research (JSLHR)</em> and the
+            <em>Journal of Research in Reading (JRIR)</em>.
+            He has also served as <strong>Guest Editor</strong> for journals including
+            <em>PLOS ONE</em>, <em>Brain Sciences</em>, and <em>Behavioral Sciences</em>, and is a member of the editorial boards of
+            <em>Perspectives of the ASHA</em> and <em>Language, Speech, and Hearing Services in Schools</em>.
+        </p>
+
+        <p>
+            Dr. Güven has led international special issues, including
+            <a href="https://www.mdpi.com/journal/behavsci/special_issues/26M28L2WGQ#info" target="_blank" rel="noopener">
+                <em>Understanding Dyslexia and Developmental Language Disorders</em>
+            </a>
+            and
+            <a href="https://www.mdpi.com/journal/behavsci/special_issues/5AF5Y5JYC7" target="_blank" rel="noopener">
+                <em>AI in the Assessment and Treatment of Speech-Language Disorders</em>
+            </a>,
+            both published in <em>Behavioral Sciences</em>.
+        </p>
+
+        <p>
+            In addition, he regularly contributes to research evaluation and funding decisions as a grant panel member for
+            <strong>Canadian Institutes of Health Research (CIHR)</strong>,
+            <strong>Fonds de recherche du Québec – Santé (FRQS)</strong>,
+            <strong>SickKids–CIHR</strong>,
+            <strong>Natural Sciences and Engineering Research Council of Canada (NSERC)</strong>,
+            and the <strong>Interagency Interdisciplinary Peer Review Committee</strong>.
+        </p>
+
         <h5>Research Interests</h5>
         <ul>
-            <li>Diagnosis and treatment of speech-language disorders in children</li>
-            <li>Computational speech-language pathology</li>
-            <li>Use of artificial intelligence in childhood speech-language disorders</li>
-            <li>Language and executive functions in neurodevelopmental disorders</li>
+            <li>Developmental speech, language, and reading disorders</li>
+            <li>Clinical and computational speech-language pathology</li>
+            <li>Voice-based AI and decision-support tools in language health</li>
+            <li>Neural bases of language development and plasticity</li>
+            <li>Bilingualism and cross-linguistic variability in language disorders</li>
         </ul>
-        
+
         <h5>Teaching</h5>
         <ul>
-            <li>LING 501: Computational Linguistics</li>
-            <li>LING 602: Bilingualism and Multilingualism</li>
-            <li>CS 455: Natural Language Processing</li>
+            <li><strong>ORT6512</strong> – Intervention orthophonique au préscolaire 2</li>
         </ul>
     </div>
 </div>
@@ -53,42 +105,15 @@ COALAB brings together researchers from diverse backgrounds including linguistic
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
-            <img src="/assets/img/team/maria-chen.svg" alt="Dr. Maria Chen" class="card-img-top">
             <div class="card-body">
-                <h4 class="card-title">Dr. Maria Chen</h4>
-                <p class="card-subtitle">Postdoctoral Researcher<br>PhD in Cognitive Science, UC Berkeley</p>
-                <p class="card-text">Specializes in semantic representation and cross-linguistic analysis.</p>
+                <h4 class="card-title">Redha Touati</h4>
+                <p class="card-subtitle">Postdoctoral Researcher</p>
+
+                <!-- Short bio to be added -->
+
                 <div class="mt-3">
-                    <a href="mailto:maria.chen@coalab.org" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="https://scholar.google.com/citations?user=mariachen" class="btn btn-outline-primary btn-sm">Scholar</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-4 mb-4">
-        <div class="team-card card h-100">
-            <img src="/assets/img/team/james-wilson.svg" alt="Dr. James Wilson" class="card-img-top">
-            <div class="card-body">
-                <h4 class="card-title">Dr. James Wilson</h4>
-                <p class="card-subtitle">Postdoctoral Researcher<br>PhD in Psychology, University of Chicago</p>
-                <p class="card-text">Focuses on language acquisition and developmental disorders.</p>
-                <div class="mt-3">
-                    <a href="mailto:james.wilson@coalab.org" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="https://scholar.google.com/citations?user=jameswilson" class="btn btn-outline-primary btn-sm">Scholar</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-4 mb-4">
-        <div class="team-card card h-100">
-            <img src="/assets/img/team/sarah-johnson.svg" alt="Dr. Sarah Johnson" class="card-img-top">
-            <div class="card-body">
-                <h4 class="card-title">Dr. Sarah Johnson</h4>
-                <p class="card-subtitle">Postdoctoral Researcher<br>PhD in Computer Science, Carnegie Mellon</p>
-                <p class="card-text">Expert in machine learning and multilingual NLP evaluation.</p>
-                <div class="mt-3">
-                    <a href="mailto:sarah.johnson@coalab.org" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="https://github.com/sarahj" class="btn btn-outline-primary btn-sm">GitHub</a>
+                    <a href="mailto:redha.touati@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
                 </div>
             </div>
         </div>
@@ -101,30 +126,47 @@ COALAB brings together researchers from diverse backgrounds including linguistic
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
             <div class="card-body">
-                <h4 class="card-title">Alex Kim</h4>
-                <p class="card-subtitle">PhD Candidate in Linguistics<br>Expected graduation: 2026</p>
-                <p class="card-text">Dissertation: "Neural Correlates of Code-Switching in Bilingual Speakers"</p>
-                <p class="card-text"><small>Advisor: Dr. Peter Awe</small></p>
+                <h4 class="card-title">Han Yao</h4>
+                <p class="card-subtitle">PhD Student</p>
+
+                <!-- Short bio to be added -->
+
+                <div class="mt-3">
+                    <a href="mailto:han.yao@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                </div>
             </div>
         </div>
     </div>
+
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
             <div class="card-body">
-                <h4 class="card-title">Rachel Lee</h4>
-                <p class="card-subtitle">PhD Candidate in Computer Science<br>Expected graduation: 2025</p>
-                <p class="card-text">Dissertation: "Low-Resource Language Processing with Cross-Lingual Transfer"</p>
-                <p class="card-text"><small>Advisor: Dr. Sarah Johnson</small></p>
+                <h4 class="card-title">Xinya Zhang</h4>
+                <p class="card-subtitle">PhD Student</p>
+
+                <!-- Short bio to be added -->
+
+                <div class="mt-3">
+                    <a href="mailto:xinya.zhang@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                </div>
             </div>
         </div>
     </div>
+
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
             <div class="card-body">
-                <h4 class="card-title">David Patel</h4>
-                <p class="card-subtitle">PhD Student in Cognitive Science<br>Expected graduation: 2027</p>
-                <p class="card-text">Research: "Executive Function and Language Control in Bilingual Children"</p>
-                <p class="card-text"><small>Advisor: Dr. James Wilson</small></p>
+                <h4 class="card-title">Pan Qiwei</h4>
+                <p class="card-subtitle">PhD Student</p>
+
+                <!-- Short bio to be added -->
+
+                <div class="mt-3">
+                    <a href="mailto:qiwei.pan@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                </div>
             </div>
         </div>
     </div>
@@ -134,85 +176,127 @@ COALAB brings together researchers from diverse backgrounds including linguistic
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
             <div class="card-body">
-                <h4 class="card-title">Lisa Zhang</h4>
-                <p class="card-subtitle">PhD Student in Linguistics<br>Expected graduation: 2028</p>
-                <p class="card-text">Research: "Semantic Change in Historical Language Corpora"</p>
-                <p class="card-text"><small>Advisor: Dr. Maria Chen</small></p>
+                <h4 class="card-title">Farhan Jahan</h4>
+                <p class="card-subtitle">PhD Student</p>
+
+                <!-- Short bio to be added -->
+
+                <div class="mt-3">
+                    <a href="mailto:farhan.jahan@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                </div>
             </div>
         </div>
     </div>
+
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
             <div class="card-body">
-                <h4 class="card-title">Michael Brown</h4>
-                <p class="card-subtitle">PhD Student in Computer Science<br>Expected graduation: 2028</p>
-                <p class="card-text">Research: "Interpretability of Multilingual Language Models"</p>
-                <p class="card-text"><small>Advisor: Dr. Sarah Johnson</small></p>
+                <h4 class="card-title">Lorna McGregor Smith</h4>
+                <p class="card-subtitle">PhD Student</p>
+
+                <!-- Short bio to be added -->
+
+                <div class="mt-3">
+                    <a href="mailto:lorna.mcgregorsmith@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
-## Master's Students
+## Master’s Students
 
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
             <div class="card-body">
-                <h4 class="card-title">Emma Wilson</h4>
-                <p class="card-subtitle">MSc in Computational Linguistics<br>Expected graduation: 2025</p>
-                <p class="card-text">Thesis: "Machine Learning Approaches to Dyslexia Screening"</p>
+                <h4 class="card-title">Aya Hadil Kiriba</h4>
+                <p class="card-subtitle">Master’s Student</p>
+
+                <!-- Short bio to be added -->
+
+                <div class="mt-3">
+                    <a href="mailto:aya.kiriba@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                </div>
             </div>
         </div>
     </div>
+
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
             <div class="card-body">
-                <h4 class="card-title">Thomas Chen</h4>
-                <p class="card-subtitle">MSc in Cognitive Science<br>Expected graduation: 2025</p>
-                <p class="card-text">Thesis: "Eye-Tracking Studies of Bilingual Reading"</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-4 mb-4">
-        <div class="team-card card h-100">
-            <div class="card-body">
-                <h4 class="card-title">Sophia Martinez</h4>
-                <p class="card-subtitle">MA in Linguistics<br>Expected graduation: 2025</p>
-                <p class="card-text">Thesis: "Code-Switching Patterns in Spanish-English Bilinguals"</p>
+                <h4 class="card-title">Gwenhael Morwan</h4>
+                <p class="card-subtitle">Master’s Student</p>
+
+                <!-- Short bio to be added -->
+
+                <div class="mt-3">
+                    <a href="mailto:gwenhael.morwan@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
-## Undergraduate Research Assistants
+## Undergraduate Research Assistants / Interns
 
-- **Jason Liu** (Computer Science, Class of 2025) - NLP tool development
-- **Olivia Taylor** (Linguistics, Class of 2026) - Corpus annotation
-- **Daniel Kim** (Psychology, Class of 2025) - Behavioral experiment design
-- **Maya Patel** (Cognitive Science, Class of 2026) - Data analysis
+<div class="row">
+    <div class="col-md-4 mb-4">
+        <div class="team-card card h-100">
+            <div class="card-body">
+                <h4 class="card-title">Qingyi Xu</h4>
+                <p class="card-subtitle">Undergraduate Research Assistant / Intern</p>
+
+                <!-- Short bio to be added -->
+
+                <div class="mt-3">
+                    <a href="mailto:qingyi.xu@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 ## Lab Alumni
 
-### Postdoctoral Alumni
-- **Dr. Robert Garcia** (2020-2022) - Now Assistant Professor at University of Washington
-- **Dr. Jennifer Lee** (2019-2021) - Now Research Scientist at Google AI
+### Master’s Alumni
+- **Faten Bouhajeb** (Master’s, 2025)
 
-### PhD Alumni
-- **Dr. Amanda White** (PhD 2022) - Now Data Scientist at Microsoft Research
-- **Dr. Kevin Brown** (PhD 2021) - Now Assistant Professor at University of British Columbia
-- **Dr. Nicole Davis** (PhD 2020) - Now Research Scientist at Meta AI
+### Research Interns
 
-### Master's Alumni
-- 15+ MSc/MA graduates now working in industry and academia
+- **Saif Atri** (Université de Montréal, Neuroscience, 2025)  
+- **Qingyi Xu** (Collège Brébeuf, 2025)  
+- **Tangui Morin** (University of Rennes, 2024)  
+- **Farhan Jahan** (Université de Montréal, Neuroscience, 2024)  
+- **Lydia Khellaf** (Université de Montréal, Neuroscience, 2024)  
+- **Qianyang Jin** (Université de Montréal, Neuroscience, 2024)  
+- **Alyssa Ostiguy** (Université de Montréal, Neuroscience, 2024)  
+- **Sarah Allouane** (Université de Montréal, Neuroscience, 2023)  
+- **Albert Orozco Camacho** (MILA – McGill University, 2022)  
+- **Safiye Gencer** (Université de Montréal, Psychology, 2022)
 
 ## Join Our Team
 
 We are always looking for talented and motivated individuals to join our research team. We have opportunities for:
 
-- **Postdoctoral researchers** with backgrounds in linguistics, computer science, psychology, or cognitive science
-- **PhD students** interested in language research from computational, cognitive, or linguistic perspectives
-- **Master's students** seeking research experience and thesis projects
-- **Undergraduate students** looking for research assistant positions
+- **PhD students** interested in speech-language, reading–writing and cognition research from computational, cognitive or neuroscientific perspectives  
+- **Master’s students** seeking research experience and thesis projects  
+- **Undergraduate students** looking for research assistant or internship positions  
+
+### Supervision Across Programs
+
+COALab offers research supervision across multiple academic and professional programs at the Université de Montréal and affiliated research centers. Depending on their background and objectives, students may be supervised through programs including:
+
+- **Speech-Language Pathology (Orthophonie)**  
+- **Neuroscience**  
+- **Biomedical Sciences and related health sciences programs**
+
+This interdisciplinary structure allows trainees to engage in clinically grounded research while receiving training in cognitive science, neuroscience, and artificial intelligence, and to tailor their academic pathway to their research interests.
 
 For more information about joining our lab, please visit our [Contact & Join page](/contact).
+
