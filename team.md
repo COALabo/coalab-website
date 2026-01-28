@@ -88,9 +88,9 @@ COALab brings together researchers from diverse backgrounds across speech-langua
         <ul>
             <li>Developmental speech, language, and reading disorders</li>
             <li>Clinical and computational speech-language pathology</li>
-            <li>Voice-based AI and decision-support tools in language health</li>
-            <li>Neural bases of language development and plasticity</li>
-            <li>Bilingualism and cross-linguistic variability in language disorders</li>
+            <li>Voice-based AI and decision-support tools in neurodevelopmental disorders</li>
+            <li>Neural bases of speech-language development and plasticity</li>
+            <li>Bilingualism and cross-linguistic variability in speech-language disorders</li>
         </ul>
 
         <h5>Teaching</h5>
