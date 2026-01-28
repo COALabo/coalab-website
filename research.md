@@ -6,7 +6,11 @@ permalink: /research/
 
 # Research Overview
 
-COALab is an interdisciplinary laboratory focusing on cognition, oral and written language disorders, and artificial intelligence. Our core mission is to combine multidisciplinary approaches to study the causes and mechanisms of language disorders and to explore novel assessment and intervention methods.
+COALab is an interdisciplinary research laboratory dedicated to understanding and supporting children with speech, language, and reading difficulties. Our work sits at the intersection of **speech-language pathology, developmental neuroscience, and artificial intelligence**, with a shared goal: **to improve how language disorders are identified, understood, and treated—earlier, more fairly, and more effectively**.
+
+Language disorders such as developmental language disorder and dyslexia affect millions of children worldwide and often remain under-identified, particularly in bilingual populations. At COALab, we combine **behavioral assessment, brain-based measures, and computational modeling** to better capture individual differences in language development and to translate scientific insight into clinically meaningful tools.
+
+Our research program is organized around three tightly connected directions.
 
 ## Core Research Areas
 
@@ -14,67 +18,66 @@ COALab is an interdisciplinary laboratory focusing on cognition, oral and writte
 <a id="disorders"></a>
 **Focus:** Speech-Language Pathology (SLP)
 
-We investigate a range of oral and written language disorders, including developmental language delays, dyslexia, and aphasia. Our work is grounded in speech-language pathology, aiming to characterize the nature of these disorders at the behavioral level.
+We study speech, language, and reading difficulties across development, including developmental speech-language disorders and dyslexia. Our work is grounded in clinical speech-language pathology and focuses on understanding how language difficulties appear in real children across ages, languages, and learning contexts. Rather than treating disorders as uniform categories, we aim to capture their **heterogeneity** and to improve assessment and intervention in diverse and bilingual settings.
 
-**Key Questions:**
-- What are the underlying cognitive deficits in specific language disorders?
-- How can we better characterize oral and written language impairments?
-- What are the most effective intervention strategies?
+**Key questions include:**
+- What cognitive and linguistic mechanisms underlie different language and reading difficulties?
+- How can we better characterize individual profiles of oral and written language impairment?
+- How can assessment better reflect bilingual development and everyday communication?
 
 ### Developmental Neuroscience
 <a id="neuroscience"></a>
-**Focus:** Neural Mechanisms of Language
+**Focus:** Neural Bases of Language Development
 
-From the perspective of developmental neuroscience, we explore the neural basis of language disorders. We use neuroimaging techniques to understand brain development, neural connectivity, and how structural or functional abnormalities relate to language deficits.
+From a developmental neuroscience perspective, we investigate how brain development supports language learning—and how this process differs in children with language disorders. We use **child-friendly neuroimaging methods**, particularly **functional near-infrared spectroscopy (fNIRS)**, to study neural activity during language, working memory, and cognitive-control tasks. Our goal is to complement behavioral assessment and identify neural markers that help explain developmental pathways and intervention response, especially in young and bilingual children.
 
-**Key Questions:**
-- How does the "language brain" develop differently in children with disorders?
-- What are the neural markers of dyslexia and other language impairments?
-- How does brain plasticity support recovery or intervention?
+**Key questions include:**
+- How does the developing “language brain” differ in children with language disorders?
+- Can early neural markers help predict later language outcomes?
+- How does brain plasticity support learning and recovery over time?
 
-### Artificial Intelligence
+### Artificial Intelligence & Computational Modeling
 <a id="ai"></a>
-**Focus:** AI in Language Health
+**Focus:** AI for Language Health
 
-We apply artificial intelligence to the study of language disorders. This involves using machine learning and NLP to assist in screening, analyze complex language behavior data, and build predictive models for diagnosis and prognosis.
+A central feature of COALab’s work is the use of AI and computational modeling to better understand language development and to support clinical decision-making. We develop **voice-based AI tools**, computational and **Bayesian** models of language and reading, and **decision-support systems** that assist—not replace—clinicians. Our AI research emphasizes **interpretability, fairness, and clinical relevance**, ensuring that models integrate smoothly into real-world clinical workflows.
 
-**Key Questions:**
-- Can AI models accurately screen for language disorders using speech or text data?
-- How can we use AI to analyze large-scale behavioral data to find new patterns?
-- Can we build predictive models to identify at-risk children earlier?
+Key directions include:
+- Voice-based screening tools for early identification of speech-language disorders  
+- Computational and Bayesian models of dyslexia that capture individual differences and cross-linguistic variability  
+- Reinforcement-learning systems that help personalize speech-language therapy while keeping clinicians in control  
+
+**Key questions include:**
+- Can speech and language patterns in children’s voices support earlier and fairer screening?
+- How can computational models help explain different developmental pathways in reading and language?
+- Can AI help clinicians tailor therapy more efficiently to each child’s needs?
 
 ## Research Facilities
 
-### Language & Cognition Lab
-- Sound-attenuated testing rooms
-- Eye-tracking systems (Tobii Pro Fusion)
-- EEG recording equipment
-- Response time measurement systems
+### Language & Cognition Research Facilities
+- Child-friendly, sound-attenuated testing rooms  
+- Neuroimaging infrastructure (functional near-infrared spectroscopy; fNIRS)  
+- Standardized behavioral assessment tools for speech, language, and reading  
+- Response-time and experimental task measurement systems  
 
-### Computational Lab
-- High-performance computing cluster
-- GPU servers for deep learning
-- Large-scale language corpora
-- Software development workstations
-
-### Collaboration Spaces
-- Group meeting rooms with video conferencing
-- Data visualization wall
-- Shared workspace for students and postdocs
+### Computational & Data Science Infrastructure
+- High-performance computing resources and GPU servers  
+- Secure storage for large-scale speech, behavioral, and neuroimaging datasets  
+- Software environments for machine learning, statistical modeling, and reproducible research  
 
 ## Funding & Collaborations
 
-Our research is supported by grants from:
-- National Science Foundation (NSF)
-- National Institutes of Health (NIH)
-- Social Sciences and Humanities Research Council (SSHRC)
-- Industry partnerships with technology companies
+Our research program is supported by competitive funding from major Canadian research and innovation organizations, including:
 
-We collaborate with researchers worldwide, including partnerships with:
-- Department of Linguistics, University of Toronto
-- School of Computer Science, McGill University
-- International Consortium for Bilingualism Research
-- Multiple industry research labs
+- **Brain Canada Foundation**  
+- **Canadian Institutes of Health Research (CIHR)**  
+- **Social Sciences and Humanities Research Council of Canada (SSHRC)**  
+- **Digital Research Alliance of Canada**  
+- **Fonds de recherche du Québec – Santé (FRQS)**  
+- **SickKids Foundation**  
+- **Ministère de l’Économie, de l’Innovation et de l’Énergie (MEIE)**  
+
+COALab collaborates closely with clinicians, neuroscientists, and computer scientists in Canada and internationally. Through these partnerships, we aim to ensure that our research remains clinically grounded, methodologically rigorous, and responsive to the needs of diverse and bilingual populations.
 
 ## Publications
 
@@ -83,3 +86,4 @@ For a complete list of our publications, please visit our [Publications page](/p
 ## Join Our Research
 
 We are always looking for talented students and researchers to join our team. If you're interested in pursuing research in any of these areas, please see our [Contact & Join page](/contact).
+
