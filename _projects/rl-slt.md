@@ -1,15 +1,27 @@
 ---
-layout: project
-title: Cognitive Load in Simultaneous Interpretation
-excerpt: Investigated cognitive load patterns in professional interpreters using EEG and eye-tracking measures. Developed predictive models of interpretation difficulty.
-tags: [Cognitive Load, EEG, Eye-tracking]
-date: 2019-01-01
-status: completed
+title: "Reinforcement Learning (RL) for Individualized Speech–Language Therapy"
+status: "Ongoing"
+summary: "Building reinforcement-learning decision-support tools embedded in clinician workflows to personalize and optimize speech–language therapy while preserving clinician oversight."
+funding:
+  - "Brain Canada – Future Leaders of Brain Research Grant"
+pi: "Dr. Selçuk Güven"
+team:
+  - "Lorna McGregor Smith (PhD Student)"
+tags:
+  - "Reinforcement Learning"
+  - "Clinical Decision Support"
+  - "Speech-Language Therapy"
+  - "Personalization"
 ---
 
 ## Overview
+This stream builds reinforcement-learning systems embedded in clinician workflows to personalize and optimize speech–language therapy, improving both treatment efficiency and child outcomes while preserving clinician oversight.
 
-Investigated cognitive load patterns in professional interpreters using EEG and eye-tracking measures. Developed predictive models of interpretation difficulty.
+## What we do
+We model therapy adaptation as a sequential decision process and develop human-in-the-loop systems that provide recommendations while keeping clinicians in control.
 
-**Timeline:** 2019-2022  
-**Publications:** 3 journal articles, 5 conference papers
+## Key components
+- Reinforcement learning models of therapy adaptation  
+- Human-in-the-loop decision support  
+- Workflow integration for clinicians  
+- Optimization of outcomes and efficiency
