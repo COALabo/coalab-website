@@ -50,44 +50,46 @@ Our lab conducts research across multiple projects that span computational speec
 {% endfor %}
 </div>
 
-## Completed Projects
-
-<div class="row">
-{% assign completed_projects = site.projects | where: "status", "completed" %}
-{% for project in completed_projects %}
-    <div class="col-md-6 mb-4">
-        <div class="card h-100 bg-light">
-            <div class="card-body">
-                <h3 class="card-title h5 text-muted">{{ project.title }}</h3>
-                <p class="card-text small">{{ project.excerpt }}</p>
-            </div>
-            <div class="card-footer bg-transparent border-top-0">
-                <a href="{{ project.url | relative_url }}" class="btn btn-outline-secondary btn-sm">View Archive</a>
-            </div>
-        </div>
-    </div>
-{% endfor %}
-</div>
-
 ## Project Resources
 
-### Data & Code
-We believe in open science. Where possible, we make our data and code publicly available:
+<hr class="my-5">
 
-- [GitHub Organization](https://github.com/coalab)
-- [Open Science Framework](https://osf.io/coalab/)
-- [Project Datasets](https://dataverse.harvard.edu/dataverse/coalab)
+<section id="project-resources">
+  <h2>Project Resources</h2>
 
-### Collaboration Opportunities
-We welcome collaborations on these and related projects. If you're interested in collaborating, please:
-1. Review our [Research](/research) page to understand our focus areas
-2. Contact the relevant project lead directly
-3. Or use our [general contact form](/contact)
+  <h3>Data &amp; Code</h3>
+  <p>
+    We believe in open science. Where possible, we make our data and code publicly available:
+  </p>
+  <ul>
+    <li><a href="https://github.com/coalab" target="_blank">GitHub Organization</a></li>
+    <li><a href="https://osf.io/coalab/" target="_blank">Open Science Framework</a></li>
+    <li><a href="https://dataverse.harvard.edu/dataverse/coalab" target="_blank">Project Datasets</a></li>
+  </ul>
 
-### Student Involvement
-Many of our projects offer opportunities for student involvement at various levels:
-- **Undergraduate students:** Research assistant positions, summer internships
-- **Master's students:** Thesis projects, research practicums
-- **PhD students:** Dissertation research, long-term project involvement
+  <h3>Collaboration Opportunities</h3>
+  <p>
+    We welcome collaborations on these and related projects. If you're interested in collaborating:
+  </p>
+  <ol>
+    <li>Review our <a href="/research/">Research</a> page to understand our focus areas</li>
+    <li>Contact the relevant project lead directly</li>
+    <li>Or use our <a href="/contact/">general contact form</a></li>
+  </ol>
 
-For information about joining our lab as a student, see our [Contact & Join page](/contact).
+  <h3>Student Involvement</h3>
+  <p>
+    Many of our projects offer opportunities for student involvement at various levels:
+  </p>
+  <ul>
+    <li><strong>Undergraduate students:</strong> Research assistant positions, summer internships</li>
+    <li><strong>Master’s students:</strong> Thesis projects, research practicums</li>
+    <li><strong>PhD students:</strong> Dissertation research, long-term project involvement</li>
+  </ul>
+
+  <p>
+    For information about joining our lab as a student, see our
+    <a href="/contact/">Contact &amp; Join page</a>.
+  </p>
+</section>
+
