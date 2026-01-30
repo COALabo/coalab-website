@@ -4,180 +4,136 @@ title: News
 permalink: /news/
 ---
 
-# Lab News & Updates
+# COALAB News
 
-Stay up to date with the latest developments from COALAB, including new publications, awards, events, and lab activities.
+Stay informed about major developments at COALAB, including research funding, invited talks, publications, trainee achievements, and lab milestones.
+
+---
+
+## 2026
+
+### January 29, 2026 — New PhD Students Join COALAB
+
+COALAB is pleased to welcome four doctoral students who have officially joined the lab:
+
+- **Farhan Jahan** — PhD in Neuroscience  
+- **Han Yao** — PhD in Speech-Language Pathology  
+- **Xinya Zhang** — PhD in Speech-Language Pathology  
+- **Pan Qiwei** — PhD in Speech-Language Pathology  
+
+Their projects span neurodevelopment, computational modeling, and clinical applications in speech-language pathology.
+
+---
 
 ## 2025
 
-### January 2025
-**New NSF Grant Awarded**  
-*January 15, 2025*  
-COALAB has been awarded a $1.2M NSF grant to study bilingual language processing in children with developmental language disorders. The three-year project will develop computational assessment tools and intervention strategies.
+### October 2025 — Research Scientist Joins the Lab
 
-**Paper Accepted at ACL 2025**  
-*January 10, 2025*  
-Our paper "Cross-Linguistic Transfer in Multilingual Language Models" has been accepted for publication at ACL 2025. The paper presents a large-scale evaluation of transfer learning across 50+ languages.
+**Dr. Redha Touati** joined COALAB as a Research Scientist, contributing expertise in artificial intelligence and computational modeling to support the lab’s expanding research programs.
 
-## 2024
+---
 
-### December 2024
-**Lab Holiday Party**  
-*December 20, 2024*  
-The lab celebrated the end of a productive year with our annual holiday party. Congratulations to all students who completed their degrees this semester!
+### October 2025 — Master’s Thesis Successfully Defended
 
-**New Publication in Journal of Memory and Language**  
-*December 5, 2024*  
-Our paper "Eye-Tracking Evidence for Predictive Processing in Bilingual Reading" has been published in the Journal of Memory and Language.
+**Faten Bouhajeb** successfully defended her research master’s thesis in Speech-Language Pathology. Congratulations to Faten on this important milestone.
 
-### November 2024
-**New Lab Members Join**  
-*November 5, 2024*  
-Welcome to our new postdoctoral researcher Dr. Maria Chen and two new PhD students (David Patel and Lisa Zhang) joining the COALAB team this fall.
+---
 
-**Conference Presentations at CogSci 2024**  
-*November 1, 2024*  
-Lab members presented three papers at the 46th Annual Meeting of the Cognitive Science Society in Toronto.
+### July 2025 — International Conference Contributions
 
-### October 2024
-**Industry Collaboration Announcement**  
-*October 15, 2024*  
-COALAB has entered into a research collaboration with TechNLP Inc. to evaluate multilingual language models for commercial applications.
+**Oral Presentation**
 
-**Guest Speaker Series**  
-*October 10, 2024*  
-Dr. Elena Rodriguez from University of Barcelona gave a talk on "Neurocognitive Approaches to Bilingualism" as part of our guest speaker series.
+- **Güven, S., & Friedmann, N.**  
+  *Developmental attentional dyslexia.*  
+  Scientific Studies of Reading (SSSR) Annual Meeting — Calgary, Canada.
 
-### September 2024
-**Fall Semester Begins**  
-*September 3, 2024*  
-Welcome back to all lab members for the fall semester! Several new research projects are starting this term.
+**Poster Presentations**
 
-**New Lab Space**  
-*September 1, 2024*  
-The lab has moved to expanded facilities in the new Science Building, featuring additional testing rooms and computational resources.
+- **Güven, S., Erbaş, Y., & Çağlar, D.**  
+  *Morphological production in DLD and PD.*  
+  Cognitive Science Society (CogSci) — San Francisco, USA.
 
-## 2023
+- **Güven, S., & Khellaf, M.**  
+  *Acoustic feature analysis in neurodevelopmental disorders via machine learning.*  
+  Cognitive Science Society (CogSci) — San Francisco, USA.
 
-### August 2023
-**Summer Internship Program**  
-*August 25, 2023*  
-Three undergraduate students completed summer research internships in the lab, working on projects related to NLP and psycholinguistics.
+---
 
-### July 2023
-**International Conference Participation**  
-*July 20, 2023*  
-Lab members attended and presented at ACL 2023 in Toronto and CogSci 2023 in Sydney.
+### May 2025 — Invited Panel and Scientific Presentations
 
-### June 2023
-**Data Release: Bilingual Code-Switching Corpus**  
-*June 15, 2023*  
-We have publicly released our Bilingual Code-Switching Corpus, containing 500+ hours of annotated bilingual conversation across multiple language pairs.
+- **L’IA en orthophonie : un tabou ?**  
+  Panel with Kathy Malas and Rania Kassir, École d’orthophonie et d’audiologie, Université de Montréal.  
+  **Audience:** Over 200 clinicians.
 
-### May 2023
-**Best Paper Award**  
-*May 10, 2023*  
-Our paper "Computational Assessment of Reading Fluency in Bilingual Children" received the Best Paper Award at the Conference on Human Language Technology.
+**Oral Presentation**
 
-### April 2023
-**Community Outreach Event**  
-*April 22, 2023*  
-Lab members participated in a community science fair, demonstrating language research to local high school students.
+- **Bouhajeb, F., & Güven, S.**  
+  *L’IA au service du dépistage des troubles du langage chez les enfants arabophones.*  
+  Association francophone pour le savoir (ACFAS) — Montréal, Canada.
 
-### March 2023
-**New Equipment Acquisition**  
-*March 15, 2023*  
-The lab has acquired new eye-tracking equipment (Tobii Pro Fusion) to support our reading and visual world paradigm studies.
+**Poster Presentation**
 
-### February 2023
-**Grant Success**  
-*February 1, 2023*  
-Our NIH grant application on "Semantic Representations Across Languages" has been funded for three years.
+- **Bouhajeb, F., & Güven, S.**  
+  *L’IA pour le dépistage des troubles du langage.*  
+  39e Congrès du CHU Sainte-Justine — Montréal, Canada.
 
-## 2022
+---
 
-### December 2022
-**Year-End Review**  
-*December 20, 2022*  
-2022 was a productive year for COALAB with 12 publications, 3 new grants, and 5 completed theses. Congratulations to all lab members!
+### May 2025 — International Leadership
 
-### November 2022
-**Alumni Success**  
-*November 10, 2022*  
-Former PhD student Dr. Amanda White has accepted a position as Data Scientist at Microsoft Research.
+Dr. Güven was invited to deliver two presentations at the **12th International Congress in Speech-Language Pathology** in İzmir, Türkiye, and served on the congress scientific committee.
 
-### October 2022
-**Lab Founded**  
-*October 1, 2022*  
-COALAB officially began operations with the hiring of our first postdoctoral researchers and graduate students.
+---
 
-## Events & Announcements
+### March 2025 — Invited Conference Presentation
 
-### Upcoming Events
+- **Güven, S., & Gündüz, M.**  
+  *Parental reports as windows into multimodal language interaction.*  
+  Workshop on Infant and Child Language Acquisition (WIMLA) — UNAM, Mexico City.
 
-**COALAB Seminar Series**  
-*Every other Thursday, 3:00 PM*  
-Lab meeting room or Zoom  
-Open to all interested researchers
+---
 
-**Guest Speaker: Dr. Thomas Müller**  
-*February 15, 2025, 2:00 PM*  
-"Advances in Multilingual NLP"  
-Science Building, Room 301
+### February 2025 — Brain Canada Grant
 
-**Annual Lab Retreat**  
-*May 2025*  
-Location TBD  
-Planning for research directions and team building
+Dr. Selçuk Güven received a **$100,000 Brain Canada – Future Leaders in Canadian Brain Research Grant** for:
 
-### Regular Activities
+**“The Potential of Reinforcement Learning in Pediatric Speech-Language Therapy” (2025–2027).**
 
-- **Lab Meetings:** Tuesdays, 10:00 AM
-- **Reading Group:** Fridays, 1:00 PM (rotating topics)
-- **Code Review Sessions:** Wednesdays, 3:00 PM
-- **Writing Accountability Groups:** Daily check-ins
+This project explores how reinforcement learning can support individualized speech-language interventions.
 
-## Media Coverage
+---
 
-- **Science Daily** (2024): "New Computational Tools for Dyslexia Assessment"
-- **Tech Review** (2023): "Evaluating Bias in Language Models"
-- **University News** (2023): "COALAB Receives Major Grant for Bilingualism Research"
+### April 2025 — SSHRC Insight Grant Awarded
 
-## Newsletter
+Dr. Güven was awarded a **$100,000 Social Sciences and Humanities Research Council (SSHRC) Insight Grant** for:
 
-Subscribe to our quarterly newsletter to receive updates on lab news, publications, and events:
+**“Computational Approaches to Reading Development and Dyslexia in Bilinguals” (2025–2028).**
 
-<form id="newsletter-form" class="mt-5">
-  <div class="row">
-    <div class="col-md-6 mb-3">
-      <label for="newsletter-email" class="form-label">Email Address</label>
-      <input type="email" class="form-control" id="newsletter-email" placeholder="name@example.com" required>
-    </div>
-    <div class="col-md-6 mb-3">
-      <label for="newsletter-name" class="form-label">Name</label>
-      <input type="text" class="form-control" id="newsletter-name" placeholder="Your Name">
-    </div>
-  </div>
-  <div class="mb-3">
-    <label for="newsletter-affiliation" class="form-label">Affiliation (Optional)</label>
-    <input type="text" class="form-control" id="newsletter-affiliation" placeholder="University, Company, etc.">
-  </div>
-  <button type="submit" class="btn btn-primary">Subscribe to Newsletter</button>
-</form>
+The project advances computational and cross-linguistic models of reading development in bilingual populations.
 
-<script>
-document.getElementById('newsletter-form').addEventListener('submit', function(e) {
-  e.preventDefault();
-  alert('Thank you for subscribing to the COALAB newsletter! You will receive our next update.');
-  this.reset();
-});
-</script>
+---
 
-## Contact for Media Inquiries
+### 2025 — Additional Invited Talks
 
-For media inquiries or interview requests, please contact:
-- **Lab Manager:** Sarah Johnson
-- **Email:** media@coalab.org
-- **Phone:** (555) 123-4567
+- *Cognitive and Computational Approaches to Developmental Dyslexia: A Bayesian Perspective.*  
+  12th National Speech-Language Pathology Convention — İzmir, Türkiye.
 
-*Last updated: January 15, 2025*
+- *The Role of Artificial Intelligence in the Diagnosis and Treatment of Speech-Language Disorders.*  
+  12th National Speech-Language Pathology Convention — İzmir, Türkiye.
+
+- *The Role of Artificial Intelligence in the Diagnosis of Speech and Language Disorders: New Approaches for Clinical Assessment and Intervention.*  
+  Tınaztepe University — İzmir, Türkiye.
+
+---
+
+## Stay Connected
+
+For inquiries about research, training opportunities, or collaborations, please contact:
+
+**Dr. Selçuk Güven**  
+orhan.selcuk.guven@umontreal.ca
+
+---
+
+*Last updated: January 2026*
+
