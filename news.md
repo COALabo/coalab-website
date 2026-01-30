@@ -10,6 +10,8 @@ Stay informed about major developments at COALAB, including research funding, in
 
 ---
 
+<a id="2026"></a>
+
 ## 2026
 
 ### January 29, 2026 — New PhD Students Join COALAB
@@ -24,6 +26,8 @@ COALAB is pleased to welcome four doctoral students who have officially joined t
 Their projects span neurodevelopment, computational modeling, and clinical applications in speech-language pathology.
 
 ---
+
+<a id="2025"></a>
 
 ## 2025
 
@@ -93,16 +97,6 @@ Dr. Güven was invited to deliver two presentations at the **12th International 
 
 ---
 
-### February 2025 — Brain Canada Grant
-
-Dr. Selçuk Güven received a **$100,000 Brain Canada – Future Leaders in Canadian Brain Research Grant** for:
-
-**“The Potential of Reinforcement Learning in Pediatric Speech-Language Therapy” (2025–2027).**
-
-This project explores how reinforcement learning can support individualized speech-language interventions.
-
----
-
 ### April 2025 — SSHRC Insight Grant Awarded
 
 Dr. Güven was awarded a **$100,000 Social Sciences and Humanities Research Council (SSHRC) Insight Grant** for:
@@ -110,6 +104,16 @@ Dr. Güven was awarded a **$100,000 Social Sciences and Humanities Research Coun
 **“Computational Approaches to Reading Development and Dyslexia in Bilinguals” (2025–2028).**
 
 The project advances computational and cross-linguistic models of reading development in bilingual populations.
+
+---
+
+### February 2025 — Brain Canada Grant
+
+Dr. Selçuk Güven received a **$100,000 Brain Canada – Future Leaders in Canadian Brain Research Grant** for:
+
+**“The Potential of Reinforcement Learning in Pediatric Speech-Language Therapy” (2025–2027).**
+
+This project explores how reinforcement learning can support individualized speech-language interventions.
 
 ---
 
