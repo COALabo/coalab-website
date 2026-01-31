@@ -13,6 +13,8 @@ tags:
   - "Multimodal"
   - "Diagnosis"
   - "Fairness"
+image: /assets/images/projects/dsld-ai.png
+image_alt: Abstract illustration of speech signals transforming into neural representations through artificial intelligence for developmental speech and language disorder assessment
 ---
 
 ## Overview
