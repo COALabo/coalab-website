@@ -255,3 +255,37 @@ h3 {
 .border-primary {
     border-color: var(--primary-color) !important;
 }
+/* Top ribbon / navbar */
+.coalab-nav{
+  background-color: {{ site.lab_primary_color }};
+  box-shadow: 0 6px 18px rgba(0,0,0,.12);
+  padding-top: .65rem;
+  padding-bottom: .65rem;
+}
+
+.coalab-nav .navbar-brand{
+  text-decoration: none;
+}
+
+.coalab-nav .nav-link{
+  opacity: .9;
+  border-radius: .5rem;
+  padding: .45rem .65rem;
+}
+
+.coalab-nav .nav-link:hover{
+  opacity: 1;
+  background: rgba(255,255,255,.10);
+}
+
+.coalab-nav .nav-link.active{
+  opacity: 1;
+  background: rgba(255,255,255,.14);
+}
+
+/* Logo sizing */
+.coalab-logo{
+  height: 28px;
+  width: auto;
+  display: inline-block;
+}
