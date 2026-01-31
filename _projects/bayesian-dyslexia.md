@@ -13,6 +13,8 @@ tags:
   - "Dual-Route"
   - "Dyslexia"
   - "Bilingualism"
+image: /assets/images/projects/dyslexia-bayesian.png
+image_alt: Conceptual visualization of probabilistic reading pathways in the brain representing computational and Bayesian models of dyslexia
 ---
 
 ## Overview
