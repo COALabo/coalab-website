@@ -59,7 +59,7 @@ Doctoral supervision is offered through multiple academic pathways, depending on
 Master’s students can join COALAB through:
 - Research assistantships  
 - Thesis projects  
-- **Travail dirigé**
+- Travail dirigé
 
 Students interested in completing a master’s project within the lab are encouraged to reach out with a short description of their interests and academic background.
 
@@ -79,10 +79,7 @@ Interested students should contact **Dr. Selçuk Güven** by email with a CV and
 
 ### Visiting Scholars & Collaborators
 
-COALAB welcomes visiting scholars and research collaborators from other institutions. Researchers interested in short-term visits, sabbatical collaborations, or joint projects are invited to contact:
-
-**Dr. Selçuk Güven**  
-[orhan.selcuk.guven@umontreal.ca](mailto:orhan.selcuk.guven@umontreal.ca)
+COALAB welcomes visiting scholars and research collaborators from other institutions. Researchers interested in short-term visits, sabbatical collaborations, or joint projects are invited to contact Dr. Selçuk Güven
 
 ---
 
