@@ -38,9 +38,9 @@ From a developmental neuroscience perspective, we investigate how brain developm
 
 ### Artificial Intelligence & Computational Modeling
 <a id="ai"></a>
-**Focus:** AI for Language Health
+**Focus:** AI for Speech-Language Development and Disorders and Cognitive Health
 
-A central feature of COALab’s work is the use of AI and computational modeling to better understand language development and to support clinical decision-making. We develop **voice-based AI tools**, computational and **Bayesian** models of language and reading, and **decision-support systems** that assist—not replace—clinicians. Our AI research emphasizes **interpretability, fairness, and clinical relevance**, ensuring that models integrate smoothly into real-world clinical workflows.
+A central feature of COALab’s work is the use of AI and computational modeling to better understand speech-language development and to support clinical decision-making. We develop **voice-based AI tools**, computational and **Bayesian** models of speech-language and reading, and **decision-support systems** that assist—not replace—clinicians. Our AI research emphasizes **interpretability, fairness, and clinical relevance**, ensuring that models integrate smoothly into real-world clinical workflows.
 
 Key directions include:
 - Voice-based screening tools for early identification of speech-language disorders  
