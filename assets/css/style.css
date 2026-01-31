@@ -306,3 +306,33 @@ h3 {
   width: auto;
   display: block;
 }
+/* Homepage hero refinement */
+.hero-coalab{
+  padding: 5.5rem 0 4.25rem;
+}
+
+.hero-mission{
+  max-width: 900px;
+  opacity: 0.95;
+}
+
+.hero-paragraph{
+  font-size: 1.05rem;
+  line-height: 1.75;
+  opacity: 0.95;
+}
+
+/* Make hero buttons look clean on dark hero backgrounds */
+.hero-section .btn-outline-light{
+  border-width: 2px;
+}
+
+/* Improve spacing on small screens */
+@media (max-width: 576px){
+  .hero-coalab{
+    padding: 4.5rem 0 3.5rem;
+  }
+  .hero-paragraph{
+    font-size: 1rem;
+  }
+}
