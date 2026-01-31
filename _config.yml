@@ -73,3 +73,13 @@ lab_primary_color: "#0057ac"
 lab_secondary_color: "#1a73e8"
 lab_background_color: "#f8f9fa"
 favicon_path: "/assets/img/favicon.svg"
+plugins:
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "fr"]
+default_lang: "en"
+exclude_from_localization: ["assets"]
+language_names:
+  en: "EN"
+  fr: "FR"
+
