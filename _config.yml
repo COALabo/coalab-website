@@ -15,6 +15,7 @@ plugins:
 
 languages: ["en", "fr"]
 default_lang: "en"
+include_default_lang: true
 exclude_from_localization: ["assets"]
 language_names:
   en: "EN"
