@@ -166,7 +166,7 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
-            <img src="/assets/img/team/pan-qiwei.jpg" alt="Pan Qiwei" class="card-img-top">
+            <img src="/assets/img/team/pan-qiwei.JPG" alt="Pan Qiwei" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Pan Qiwei</h4>
                 <p class="card-subtitle">PhD Student</p>
