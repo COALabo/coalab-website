@@ -6,18 +6,11 @@ nav:
   team: "Équipe"
   news: "Actualités"
   contact: "Contact & Rejoindre"
-nav:
-  home: "Accueil"
-  research: "Recherche"
-  projects: "Projets"
-  publications: "Publications"
-  team: "Équipe"
-  news: "Actualités"
-  contact: "Contact & Rejoindre"
 
 footer:
-  rights: "Tous droits réservés."
   quick_links: "Liens rapides"
-  connect: "Contact"
+  connect: "Nous joindre"
   contact_us: "Nous contacter"
   join_lab: "Rejoindre le labo"
+  email: "Courriel"
+  rights: "Tous droits réservés."
