@@ -18,7 +18,7 @@ COALab brings together researchers from diverse backgrounds across speech-langua
                 <h4 class="card-title">Dr. Selçuk Güven</h4>
                 <p class="card-subtitle">
                     Principal Investigator<br>
-                    Assistant Professor, Faculty of Medicine<br>
+                    Professor, Faculty of Medicine<br>
                     Université de Montréal
                 </p>
                 <p class="card-text">
@@ -37,7 +37,7 @@ COALab brings together researchers from diverse backgrounds across speech-langua
         <h3>About Dr. Güven</h3>
 
         <p>
-            Dr. Selçuk Güven is a speech-language pathologist and researcher whose work focuses on understanding the cognitive, neural, and computational mechanisms underlying speech, language, and reading disorders in children. He leads COALab with the goal of improving how language disorders are identified, characterized, and treated—particularly in diverse and bilingual populations.
+            Dr. Selçuk Güven is a speech-language pathologist and researcher whose work focuses on understanding the cognitive, neural, and computational mechanisms underlying speech, language, and reading disorders in children. He leads COALab with the goal of improving how speech-language disorders and dyslexia are identified, characterized, and treated—particularly in diverse and bilingual populations.
         </p>
 
         <p>
@@ -45,7 +45,7 @@ COALab brings together researchers from diverse backgrounds across speech-langua
         </p>
 
         <p>
-            Dr. Güven’s current projects include voice-based AI tools for early identification of speech-language disorders, Bayesian and computational models of dyslexia across languages, and reinforcement-learning approaches to personalized speech-language therapy, developed in close collaboration with clinicians.
+            Dr. Güven’s current projects include voice-based AI tools for early identification of speech-language disorders, Bayesian and computational models of dyslexia across languages, and reinforcement-learning approaches to personalized speech-language therapy, developed in close collaboration with clinicians and AI experts.
         </p>
 
         <h5>Academic Leadership &amp; Service</h5>
