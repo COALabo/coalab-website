@@ -255,7 +255,7 @@ h3 {
 .border-primary {
     border-color: var(--primary-color) !important;
 }
-/* Top ribbon / navbar */
+/* Top navbar */
 .coalab-nav{
   background-color: {{ site.lab_primary_color }};
   box-shadow: 0 6px 18px rgba(0,0,0,.12);
@@ -264,23 +264,35 @@ h3 {
 }
 
 .coalab-nav .navbar-brand{
+  color: #fff !important;
   text-decoration: none;
 }
 
 .coalab-nav .nav-link{
-  opacity: .9;
+  color: rgba(255,255,255,.92) !important;
   border-radius: .5rem;
-  padding: .45rem .65rem;
+  padding: .45rem .60rem;
+  white-space: nowrap;            /* helps the menu stay tidy */
 }
 
 .coalab-nav .nav-link:hover{
-  opacity: 1;
+  color: #fff !important;
   background: rgba(255,255,255,.10);
 }
 
 .coalab-nav .nav-link.active{
-  opacity: 1;
+  color: #fff !important;
   background: rgba(255,255,255,.14);
+}
+
+/* Spacing so menu doesn't feel crowded */
+.coalab-nav-links{
+  gap: .15rem;
+}
+
+/* CTA button */
+.coalab-cta{
+  white-space: nowrap;
 }
 
 /* Logo sizing */
