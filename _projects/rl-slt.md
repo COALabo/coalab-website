@@ -12,7 +12,7 @@ tags:
   - "Clinical Decision Support"
   - "Speech-Language Therapy"
   - "Personalization"
-image: /assets/images/projects/rl-therapy.png
+image: /assets/img/projects/rl-therapy.png
 image_alt: Illustration of a feedback loop between clinician, child, and artificial intelligence representing reinforcement learning for personalized speech-language therapy
 ---
 
