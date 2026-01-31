@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: Welcome to COALAB - Cognition, Oral & Written Language Disorders, and Machine Learning & AI Laboratory
+description: "Welcome to COALAB - Cognition, Oral & Written Language Disorders, and Machine Learning & AI Laboratory"
 ---
 
 <!-- Hero Section -->
@@ -128,40 +128,34 @@ description: Welcome to COALAB - Cognition, Oral & Written Language Disorders, a
 
 <!-- Latest News -->
 <section class="py-5">
-  <div class="container">
-    <h2 class="text-center mb-5">Latest News</h2>
-    <div class="row">
-      <div class="col-lg-8 mx-auto">
+    <div class="container">
+        <h2 class="text-center mb-5">Latest News</h2>
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
 
-        {% assign news_items = site.data.news | sort: "date" | reverse %}
-        {% for item in news_items limit:5 %}
-          <div class="news-item">
-            <div class="news-date">{{ item.date | date: "%B %d, %Y" }}</div>
-            <div class="news-title">{{ item.title }}</div>
-            <p>{{ item.text }}</p>
-            {% if item.link %}
-              <a href="{{ item.link | relative_url }}">Read more →</a>
-            {% else %}
-              <a href="{{ '/news' | relative_url }}">Read more →</a>
-            {% endif %}
-          </div>
-        {% endfor %}
+                {% for post in site.posts limit:5 %}
+                <div class="news-item">
+                    <div class="news-date">{{ post.date | date: "%B %d, %Y" }}</div>
+                    <div class="news-title">{{ post.title }}</div>
+                    <p>{{ post.excerpt | strip_html | truncate: 200 }}</p>
+                    <a href="{{ post.url | relative_url }}">Read more →</a>
+                </div>
+                {% endfor %}
 
-        {% if news_items.size == 0 %}
-          <div class="news-item">
-            <div class="news-date">January 2026</div>
-            <div class="news-title">Updates Coming Soon</div>
-            <p>We’ll be sharing lab updates, new publications, grants, and trainee news here.</p>
-            <a href="{{ '/news' | relative_url }}">Read more →</a>
-          </div>
-        {% endif %}
+                {% if site.posts.size == 0 %}
+                <div class="news-item">
+                    <div class="news-date">January 2026</div>
+                    <div class="news-title">Updates Coming Soon</div>
+                    <p>We’ll be sharing lab updates, new publications, grants, and trainee news here.</p>
+                    <a href="{{ '/news' | relative_url }}">Read more →</a>
+                </div>
+                {% endif %}
 
-      </div>
+            </div>
+        </div>
+        <div class="text-center mt-4">
+            <a href="{{ '/news' | relative_url }}" class="btn btn-outline-primary">View All News</a>
+        </div>
     </div>
-
-    <div class="text-center mt-4">
-      <a href="{{ '/news' | relative_url }}" class="btn btn-outline-primary">View All News</a>
-    </div>
-  </div>
 </section>
 
