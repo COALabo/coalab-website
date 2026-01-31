@@ -21,46 +21,53 @@
 
 <body style="background-color: {{ site.lab_background_color }};">
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color: {{ site.lab_primary_color }};">
-        <div class="container">
-            <a class="navbar-brand" href="{{ '/' | relative_url }}">
-                <strong>{{ site.lab_name }}</strong>
-                <small class="d-none d-md-inline"> - {{ site.lab_tagline }}</small>
-            </a>
-            
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" 
-                    aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            
-            <div class="collapse navbar-collapse" id="navbarContent">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link {% if page.url contains '/research' %}active{% endif %}" href="{{ '/research' | relative_url }}">Research</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link {% if page.url contains '/projects' %}active{% endif %}" href="{{ '/projects' | relative_url }}">Projects</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link {% if page.url contains '/publications' %}active{% endif %}" href="{{ '/publications' | relative_url }}">Publications</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link {% if page.url contains '/team' %}active{% endif %}" href="{{ '/team' | relative_url }}">Team</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link {% if page.url contains '/news' %}active{% endif %}" href="{{ '/news' | relative_url }}">News</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link {% if page.url contains '/contact' %}active{% endif %}" href="{{ '/contact' | relative_url }}">Contact & Join</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top coalab-nav">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center gap-2" href="{{ '/' | relative_url }}">
+      <img
+        src="{{ '/assets/img/logo/coalab-logo.svg' | relative_url }}"
+        alt="{{ site.lab_name }} logo"
+        class="coalab-logo"
+      >
+      <span class="fw-semibold">{{ site.lab_name }}</span>
+      <span class="d-none d-lg-inline opacity-75 ms-2 small">| {{ site.lab_tagline }}</span>
+    </a>
 
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+            aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarContent">
+      <ul class="navbar-nav ms-auto align-items-lg-center gap-lg-1">
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url contains '/research' %}active{% endif %}" href="{{ '/research' | relative_url }}">Research</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url contains '/projects' %}active{% endif %}" href="{{ '/projects' | relative_url }}">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url contains '/publications' %}active{% endif %}" href="{{ '/publications' | relative_url }}">Publications</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url contains '/team' %}active{% endif %}" href="{{ '/team' | relative_url }}">Team</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link {% if page.url contains '/news' %}active{% endif %}" href="{{ '/news' | relative_url }}">News</a>
+        </li>
+        <li class="nav-item ms-lg-2">
+          <a class="btn btn-sm btn-outline-light {% if page.url contains '/contact' %}active{% endif %}"
+             href="{{ '/contact' | relative_url }}">
+            Contact &amp; Join
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
     <!-- Main Content -->
     <main class="container mt-5 pt-4">
         {{ content }}
