@@ -166,13 +166,13 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
-            <img src="/assets/img/team/pan-qiwei.png" alt="Pan Qiwei" class="card-img-top">
+            <img src="/assets/img/team/pan-qiwei.png" alt="Qiwei Pan" class="card-img-top">
             <div class="card-body">
-                <h4 class="card-title">Pan Qiwei</h4>
+                <h4 class="card-title">Qiwei Pan</h4>
                 <p class="card-subtitle">PhD Student</p>
 
                 <p class="card-text">
-                    Pan Qiwei is a PhD student at Université de Montréal researching deep learning to improve understanding and early diagnosis of speech-language disorders in children. With a background spanning engineering, human-computer interaction, and linguistics, he is passionate about building applied AI solutions and turning ideas into real projects. Outside the lab, he enjoys literature and philosophy and shares reflections through public writing.
+                    Qiwei Pan is a PhD student at Université de Montréal researching deep learning to improve understanding and early diagnosis of speech-language disorders in children. With a background spanning engineering, human-computer interaction, and linguistics, he is passionate about building applied AI solutions and turning ideas into real projects. Outside the lab, he enjoys literature and philosophy and shares reflections through public writing.
                 </p>
 
                 <div class="mt-3">
