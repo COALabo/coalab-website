@@ -27,7 +27,7 @@ COALab brings together researchers from diverse backgrounds across speech-langua
                 </p>
                 <div class="mt-3">
                     <a href="mailto:orhan.selcuk.guven@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="https://sites.google.com/view/coalabo/home" class="btn btn-outline-primary btn-sm">Website</a>
+                    <a href="https://sites.google.com/view/coalabo/home" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Website</a>
                 </div>
             </div>
         </div>
@@ -105,15 +105,18 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <img src="/assets/img/team/redha-touati.png" alt="Redha Touati" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Redha Touati</h4>
                 <p class="card-subtitle">Postdoctoral Researcher</p>
 
-                <!-- Short bio to be added -->
+                <p class="card-text">
+                    Redha Touati is a Researcher at COALAB, applying multimodal AI, statistical modeling, and deep learning to study speech, language, and reading disorders in children. He received his Ph.D. and M.Sc. in Computer Science from the Université de Montréal and completed a postdoctoral fellowship at Polytechnique Montréal. He also worked as an R&amp;D intern at CRIM, a teaching assistant, and a research programmer in private healthcare companies.
+                </p>
 
                 <div class="mt-3">
-                    <a href="mailto:redha.touati@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                    <a href="mailto:redha.touati.hsj@ssss.gouv.qc.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="https://scholar.google.com/citations?user=RzoGVhkAAAAJ&hl=fr" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profile</a>
                 </div>
             </div>
         </div>
@@ -125,15 +128,18 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <img src="/assets/img/team/han-yao.png" alt="Han Yao" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Han Yao</h4>
                 <p class="card-subtitle">PhD Student</p>
 
-                <!-- Short bio to be added -->
+                <p class="card-text">
+                    Han Yao is a PhD student at COALab working on cognitive models of reading and dyslexia in bilingual children. He is also interested in number reading, arithmetic abilities, and dyscalculia, and how these relate to reading and dyslexia. He has a background in theoretical linguistics (semantics, pragmatics, and psycholinguistics) and cognitive science.
+                </p>
 
                 <div class="mt-3">
-                    <a href="mailto:han.yao@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                    <a href="mailto:han.yao.1@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="https://www.linkedin.com/in/han-yao-79434b1b4" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profile</a>
                 </div>
             </div>
         </div>
@@ -141,15 +147,18 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <img src="/assets/img/team/xinya-zhang.jpg" alt="Xinya Zhang" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Xinya Zhang</h4>
                 <p class="card-subtitle">PhD Student</p>
 
-                <!-- Short bio to be added -->
+                <p class="card-text">
+                    Xinya Zhang holds a BA in English and an MA in Linguistics from Nanjing University of Science and Technology. She is interested in using computational modeling to better understand child language acquisition and bilingualism. In COALab, she focuses on Bayesian modeling of cross-orthographic reading and dyslexia in bilingual children.
+                </p>
 
                 <div class="mt-3">
                     <a href="mailto:xinya.zhang@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                    <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=OOyKVZ0AAAAJ&gmla=APjjwubPrW74lbj7W67L8UvApuSL0KEiZ1XUova2k0QkARi91I0jejFrgOTfddvt_IdQfvtdHJFxfpdhBsX4DS9HuV2HuXCLIrxLLjWSkCIdTcP25gaJ" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profile</a>
                 </div>
             </div>
         </div>
@@ -157,15 +166,18 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <img src="/assets/img/team/pan-qiwei.jpg" alt="Pan Qiwei" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Pan Qiwei</h4>
                 <p class="card-subtitle">PhD Student</p>
 
-                <!-- Short bio to be added -->
+                <p class="card-text">
+                    Pan Qiwei is a PhD student at Université de Montréal researching deep learning to improve understanding and early diagnosis of speech-language disorders in children. With a background spanning engineering, human-computer interaction, and linguistics, he is passionate about building applied AI solutions and turning ideas into real projects. Outside the lab, he enjoys literature and philosophy and shares reflections through public writing.
+                </p>
 
                 <div class="mt-3">
                     <a href="mailto:qiwei.pan@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                    <a href="https://www.researchgate.net/profile/Qiwei-Pan-3?ev=hdr_xprf" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profile</a>
                 </div>
             </div>
         </div>
@@ -175,11 +187,15 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <!-- No photo yet: use placeholder -->
+            <img src="/assets/img/team/placeholder.png" alt="Farhan Jahan" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Farhan Jahan</h4>
                 <p class="card-subtitle">PhD Student</p>
 
-                <!-- Short bio to be added -->
+                <p class="card-text">
+                    Farhan Jahan is a PhD student in Dr. Güven’s lab at CHU Sainte-Justine, exploring how bilingual children’s brains handle language and memory. What started as a master’s project became a quest to decode the hidden patterns of the mind. When not in the lab, Farhan enjoys reading—and trying not to overthink everything.
+                </p>
 
                 <div class="mt-3">
                     <a href="mailto:farhan.jahan@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
@@ -191,6 +207,8 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <!-- Photo not provided yet -->
+            <!-- <img src="/assets/img/team/lorna-mcgregor-smith.jpg" alt="Lorna McGregor Smith" class="card-img-top"> -->
             <div class="card-body">
                 <h4 class="card-title">Lorna McGregor Smith</h4>
                 <p class="card-subtitle">PhD Student</p>
@@ -211,6 +229,8 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <!-- Photo not provided yet -->
+            <!-- <img src="/assets/img/team/aya-hadil-kiriba.jpg" alt="Aya Hadil Kiriba" class="card-img-top"> -->
             <div class="card-body">
                 <h4 class="card-title">Aya Hadil Kiriba</h4>
                 <p class="card-subtitle">Master’s Student</p>
@@ -227,6 +247,8 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <!-- Photo not provided yet -->
+            <!-- <img src="/assets/img/team/gwenhael-morwan.jpg" alt="Gwenhael Morwan" class="card-img-top"> -->
             <div class="card-body">
                 <h4 class="card-title">Gwenhael Morwan</h4>
                 <p class="card-subtitle">Master’s Student</p>
@@ -247,6 +269,8 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <!-- Photo not provided yet -->
+            <!-- <img src="/assets/img/team/qingyi-xu.jpg" alt="Qingyi Xu" class="card-img-top"> -->
             <div class="card-body">
                 <h4 class="card-title">Qingyi Xu</h4>
                 <p class="card-subtitle">Undergraduate Research Assistant / Intern</p>
@@ -298,5 +322,5 @@ COALab offers research supervision across multiple academic and professional pro
 
 This interdisciplinary structure allows trainees to engage in clinically grounded research while receiving training in cognitive science, neuroscience, and artificial intelligence, and to tailor their academic pathway to their research interests.
 
-For more information about joining our lab, please visit our [Contact & Join page](/contact).
+For more information about joining our lab, please visit our [Contact & Join page](/contact)
 
