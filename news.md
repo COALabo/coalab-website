@@ -14,7 +14,7 @@ Stay informed about major developments at COALAB, including research funding, in
 
 ## 2026
 
-### January 29, 2026 — New PhD Students Join COALAB
+### January, 2026 — New PhD Students Join COALAB
 
 COALAB is pleased to welcome four doctoral students who have officially joined the lab:
 
