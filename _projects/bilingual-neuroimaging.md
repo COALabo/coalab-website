@@ -12,6 +12,8 @@ tags:
   - "fNIRS"
   - "Longitudinal"
   - "Language Disorders"
+image: /assets/images/projects/neuroimaging-longitudinal.png
+image_alt: Stylized brain illustration showing distributed neural activation patterns used for longitudinal neuroimaging of language development
 ---
 
 ## Overview
