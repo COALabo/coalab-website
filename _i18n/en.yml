@@ -1,1 +1,9 @@
+nav:
+  home: "Home"
+  research: "Research"
+  projects: "Projects"
+  publications: "Publications"
+  team: "Team"
+  news: "News"
+  contact: "Contact & Join"
 
