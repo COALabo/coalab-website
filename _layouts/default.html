@@ -30,7 +30,6 @@
         class="coalab-logo"
       >
       <span class="fw-semibold">{{ site.lab_name }}</span>
-      <span class="d-none d-lg-inline opacity-75 ms-2 small">| {{ site.lab_tagline }}</span>
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
@@ -39,7 +38,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarContent">
-      <ul class="navbar-nav ms-auto align-items-lg-center gap-lg-1">
+      <ul class="navbar-nav ms-auto align-items-lg-center coalab-nav-links">
         <li class="nav-item">
           <a class="nav-link {% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
         </li>
@@ -58,8 +57,13 @@
         <li class="nav-item">
           <a class="nav-link {% if page.url contains '/news' %}active{% endif %}" href="{{ '/news' | relative_url }}">News</a>
         </li>
-        <li class="nav-item ms-lg-2">
-          <a class="btn btn-sm btn-outline-light {% if page.url contains '/contact' %}active{% endif %}"
+
+        <!-- keeps menu fitting: button only on lg+ screens, normal link on small screens -->
+        <li class="nav-item d-lg-none">
+          <a class="nav-link {% if page.url contains '/contact' %}active{% endif %}" href="{{ '/contact' | relative_url }}">Contact &amp; Join</a>
+        </li>
+        <li class="nav-item d-none d-lg-block ms-lg-2">
+          <a class="btn btn-sm btn-outline-light coalab-cta {% if page.url contains '/contact' %}active{% endif %}"
              href="{{ '/contact' | relative_url }}">
             Contact &amp; Join
           </a>
