@@ -4,4 +4,38 @@ title: Accueil
 lang: fr
 permalink: /fr/
 ---
-{% include home-fr.html %}
+
+<!-- Hero Section -->
+<section class="hero-section hero-coalab">
+  <div class="container text-center">
+    <h1 class="display-4 mb-2">{{ site.lab_full_name }}</h1>
+
+    <p class="lead hero-mission mx-auto mb-4">
+      Favoriser une évaluation et un soutien plus précoces, plus équitables et cliniquement pertinents pour les enfants présentant des difficultés de parole, de langage et de lecture-écriture.
+    </p>
+
+    <div class="row justify-content-center">
+      <div class="col-md-9 col-lg-8">
+        <p class="hero-paragraph mb-3">
+          COALab est un laboratoire interdisciplinaire dédié à la compréhension et au soutien des enfants présentant des difficultés de parole, de langage et de lecture. Nos travaux se situent à l’intersection de l’orthophonie, des neurosciences du développement et de l’intelligence artificielle, avec un objectif commun : améliorer l’identification, la compréhension et la prise en charge des troubles du langage — plus tôt, plus équitablement et plus efficacement.
+        </p>
+
+        <p class="hero-paragraph mb-0">
+          Nous combinons des évaluations comportementales, des mesures neurobiologiques et la modélisation computationnelle afin de mieux caractériser les différences individuelles et de traduire les connaissances scientifiques en outils utiles en clinique.
+        </p>
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-center gap-2 gap-md-3 mt-4 flex-wrap">
+      <a href="{{ '/research' | relative_url }}" class="btn btn-light btn-lg">
+        Explorer la recherche
+      </a>
+      <a href="{{ '/projects' | relative_url }}" class="btn btn-outline-light btn-lg">
+        Voir les projets
+      </a>
+      <a href="{{ '/contact' | relative_url }}" class="btn btn-outline-light btn-lg">
+        Rejoindre COALab
+      </a>
+    </div>
+  </div>
+</section>
