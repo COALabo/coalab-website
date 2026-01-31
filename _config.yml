@@ -8,9 +8,18 @@ github_username: "Peter-awe"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "fr"]
+default_lang: "en"
+exclude_from_localization: ["assets"]
+language_names:
+  en: "EN"
+  fr: "FR"
 
 # Collections
 collections:
