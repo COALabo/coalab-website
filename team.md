@@ -267,23 +267,24 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 ## Undergraduate Research Assistants / Interns
 
 <div class="row">
-    <div class="col-md-4 mb-4">
-        <div class="team-card card h-100">
-            <!-- Photo not provided yet -->
-            <!-- <img src="/assets/img/team/qingyi-xu.jpg" alt="Qingyi Xu" class="card-img-top"> -->
-            <div class="card-body">
-                <h4 class="card-title">Qingyi Xu</h4>
-                <p class="card-subtitle">Undergraduate Research Assistant / Intern</p>
+  <div class="col-md-4 mb-4">
+    <div class="team-card card h-100">
+      <img src="/assets/img/team/qingyi-xu.png" alt="Qingyi Xu headshot" class="card-img-top">
 
-                <!-- Short bio to be added -->
+      <div class="card-body">
+        <h4 class="card-title">Qingyi Xu</h4>
+        <p class="card-subtitle">Health Sciences CEGEP Student · Research Intern</p>
 
-                <div class="mt-3">
-                    <a href="mailto:qingyi.xu@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
-                </div>
-            </div>
+        <p class="card-text">
+          Qingyi Xu is a Health Sciences CEGEP student at Collège Brébeuf and a member of COALab. He is a recipient of the Bourse d’Initiation à la recherche (BIRC) and works on the development of early detection methods for speech-language pathologies using voice-based machine learning. He plans to pursue medicine in the future.
+        </p>
+
+        <div class="mt-3">
+          <a href="mailto:qingyi.xu@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
         </div>
+      </div>
     </div>
+  </div>
 </div>
 
 ## Lab Alumni
