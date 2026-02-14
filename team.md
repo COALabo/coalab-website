@@ -280,7 +280,8 @@ COALab brings together researchers from diverse backgrounds across speech-langua
         </p>
 
         <div class="mt-3">
-          <a href="mailto:qingyi.xu@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+          <a href="mailto:qingyi.xu@outlook.com" class="btn btn-outline-primary btn-sm">Email</a>
+          <a href="https://linkedin.com/in/qingyxu" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
         </div>
       </div>
     </div>
