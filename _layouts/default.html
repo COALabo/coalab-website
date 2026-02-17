@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: site.default_lang | default: 'en' }}">
+<html lang="{{ page.lang | default: site.default_lang | default: 'en' }}">
 <head>
   <meta charset="utf-8">
 
@@ -9,10 +9,8 @@
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="theme-color" content="#003A70">
 
-  <!-- SEO Tag -->
   {% seo %}
 
-  <!-- CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -58,12 +56,46 @@
 
 <body style="background-color: {{ site.lab_background_color }};">
 
-  {% assign current_lang = site.lang | default: site.default_lang | default: 'en' %}
-  {% if current_lang == 'fr' %}
-    {% assign home_url = '/fr/' %}
-  {% else %}
-    {% assign home_url = '/' %}
-  {% endif %}
+  {%- assign current_lang = page.lang | default: site.default_lang | default: 'en' -%}
+  {%- if current_lang == site.default_lang or current_lang == 'en' -%}
+    {%- assign lang_prefix = "" -%}
+  {%- else -%}
+    {%- assign lang_prefix = "/" | append: current_lang -%}
+  {%- endif -%}
+
+  {%- assign home_url = lang_prefix | append: "/" -%}
+  {%- assign research_url = lang_prefix | append: "/research/" -%}
+  {%- assign projects_url = lang_prefix | append: "/projects/" -%}
+  {%- assign publications_url = lang_prefix | append: "/publications/" -%}
+  {%- assign team_url = lang_prefix | append: "/team/" -%}
+  {%- assign news_url = lang_prefix | append: "/news/" -%}
+  {%- assign contact_url = lang_prefix | append: "/contact/" -%}
+  {%- assign contact_join_url = contact_url | append: "#join" -%}
+
+  {%- comment -%}
+    Build language switch URLs robustly:
+    - If you are on /fr/..., EN is same path without the /fr prefix
+    - If you are on EN, FR is /fr + current path
+    This assumes your French pages use permalinks like /fr/team/, /fr/research/, etc.
+  {%- endcomment -%}
+  {%- assign current_path = page.url | default: "/" -%}
+  {%- if current_path == "" -%}{%- assign current_path = "/" -%}{%- endif -%}
+
+  {%- if current_path contains "/fr/" -%}
+    {%- assign switch_to_en = current_path | replace_first: "/fr", "" -%}
+    {%- if switch_to_en == "" -%}{%- assign switch_to_en = "/" -%}{%- endif -%}
+    {%- assign switch_to_fr = current_path -%}
+  {%- else -%}
+    {%- assign switch_to_en = current_path -%}
+    {%- if current_path == "/" -%}
+      {%- assign switch_to_fr = "/fr/" -%}
+    {%- else -%}
+      {%- assign switch_to_fr = "/fr" | append: current_path -%}
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- assign switch_to_en = switch_to_en | replace: "//", "/" -%}
+  {%- assign switch_to_fr = switch_to_fr | replace: "//", "/" -%}
 
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top coalab-nav">
@@ -93,28 +125,38 @@
               {% t nav.home %}
             </a>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link {% if page.url contains '/research' %}active{% endif %}" href="{{ '/research' | relative_url }}">
+            <a class="nav-link {% if page.url contains '/research' %}active{% endif %}"
+               href="{{ research_url | relative_url }}">
               {% t nav.research %}
             </a>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link {% if page.url contains '/projects' %}active{% endif %}" href="{{ '/projects' | relative_url }}">
+            <a class="nav-link {% if page.url contains '/projects' %}active{% endif %}"
+               href="{{ projects_url | relative_url }}">
               {% t nav.projects %}
             </a>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link {% if page.url contains '/publications' %}active{% endif %}" href="{{ '/publications' | relative_url }}">
+            <a class="nav-link {% if page.url contains '/publications' %}active{% endif %}"
+               href="{{ publications_url | relative_url }}">
               {% t nav.publications %}
             </a>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link {% if page.url contains '/team' %}active{% endif %}" href="{{ '/team' | relative_url }}">
+            <a class="nav-link {% if page.url contains '/team' %}active{% endif %}"
+               href="{{ team_url | relative_url }}">
               {% t nav.team %}
             </a>
           </li>
+
           <li class="nav-item">
-            <a class="nav-link {% if page.url contains '/news' %}active{% endif %}" href="{{ '/news' | relative_url }}">
+            <a class="nav-link {% if page.url contains '/news' %}active{% endif %}"
+               href="{{ news_url | relative_url }}">
               {% t nav.news %}
             </a>
           </li>
@@ -123,11 +165,11 @@
           <li class="nav-item ms-lg-2">
             <div class="lang-switch d-flex align-items-center px-2 py-1 rounded"
                  style="background: rgba(255,255,255,.10);">
-              {% if current_lang == "en" %}
+              {% if current_lang == "en" or current_lang == site.default_lang %}
                 <span class="current small me-2">EN</span>
-                <a class="small" href="{{ page.url | replace_first: '/', '/fr/' | replace: '//', '/' }}">FR</a>
+                <a class="small" href="{{ switch_to_fr | relative_url }}">FR</a>
               {% else %}
-                <a class="small me-2" href="{{ page.url | replace_first: '/fr/', '/' }}">EN</a>
+                <a class="small me-2" href="{{ switch_to_en | relative_url }}">EN</a>
                 <span class="current small">FR</span>
               {% endif %}
             </div>
@@ -135,14 +177,15 @@
 
           <!-- small screens -->
           <li class="nav-item d-lg-none">
-            <a class="nav-link {% if page.url contains '/contact' %}active{% endif %}" href="{{ '/contact' | relative_url }}">
+            <a class="nav-link {% if page.url contains '/contact' %}active{% endif %}"
+               href="{{ contact_url | relative_url }}">
               {% t nav.contact %}
             </a>
           </li>
 
           <!-- large screens CTA -->
           <li class="nav-item d-none d-lg-block ms-lg-2">
-            <a class="btn btn-sm btn-outline-light coalab-cta" href="{{ '/contact' | relative_url }}">
+            <a class="btn btn-sm btn-outline-light coalab-cta" href="{{ contact_url | relative_url }}">
               {% t nav.contact %}
             </a>
           </li>
@@ -170,19 +213,18 @@
           <h5>{% t footer.quick_links %}</h5>
           <ul class="list-unstyled">
             <li><a href="{{ home_url | relative_url }}" class="text-light">{% t nav.home %}</a></li>
-            <li><a href="{{ '/research' | relative_url }}" class="text-light">{% t nav.research %}</a></li>
-            <li><a href="{{ '/projects' | relative_url }}" class="text-light">{% t nav.projects %}</a></li>
-            <li><a href="{{ '/publications' | relative_url }}" class="text-light">{% t nav.publications %}</a></li>
+            <li><a href="{{ research_url | relative_url }}" class="text-light">{% t nav.research %}</a></li>
+            <li><a href="{{ projects_url | relative_url }}" class="text-light">{% t nav.projects %}</a></li>
+            <li><a href="{{ publications_url | relative_url }}" class="text-light">{% t nav.publications %}</a></li>
           </ul>
         </div>
 
         <div class="col-md-3">
           <h5>{% t footer.connect %}</h5>
           <ul class="list-unstyled">
-            <li><a href="{{ '/contact' | relative_url }}" class="text-light">{% t footer.contact_us %}</a></li>
-            <li><a href="{{ '/contact#join' | relative_url }}" class="text-light">{% t footer.join_lab %}</a></li>
+            <li><a href="{{ contact_url | relative_url }}" class="text-light">{% t footer.contact_us %}</a></li>
+            <li><a href="{{ contact_join_url | relative_url }}" class="text-light">{% t footer.join_lab %}</a></li>
             <li><a href="https://github.com/{{ site.github_username }}" class="text-light">GitHub</a></li>
-            <!-- SAFEST: don't translate this label via plugin to avoid nil crash -->
             <li><a href="mailto:orhan.selcuk.guven@umontreal.ca" class="text-light">Email</a></li>
           </ul>
         </div>
@@ -195,4 +237,3 @@
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
-
