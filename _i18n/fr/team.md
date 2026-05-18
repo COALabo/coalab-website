@@ -128,7 +128,7 @@ COALab réunit des chercheuses et chercheurs issus de parcours variés en orthop
                 <p class="card-subtitle">Doctorant</p>
 
                 <p class="card-text">
-                    Han Yao est doctorant à COALab et travaille sur des modèles cognitifs de la lecture et de la dyslexie chez des enfants bilingues. Il s’intéresse aussi à la lecture des nombres, aux habiletés arithmétiques et à la dyscalculie, ainsi qu’aux liens entre ces domaines et la lecture/la dyslexie. Il a une formation en linguistique théorique (sémantique, pragmatique et psycholinguistique) et en sciences cognitives.
+                    Han Yao est doctorant à COALab et travaille sur des modèles cognitifs de la lecture et de la dyslexie chez des enfants bilingues. Il s’intéresse aussi à la lecture des nombres, aux habiletés arithmétiques et à la dyscalculie, ainsi qu’aux liens entre ces domaines et la lecture/la dyslexie. Il a une formation en linguistique théorique, en sémantique, en pragmatique, en psycholinguistique et en sciences cognitives.
                 </p>
 
                 <div class="mt-3">
@@ -181,19 +181,18 @@ COALab réunit des chercheuses et chercheurs issus de parcours variés en orthop
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
-            <!-- No photo yet: use placeholder -->
-            <img src="/assets/img/team/placeholder.png" alt="Farhan Jahan" class="card-img-top">
+            <img src="/assets/img/team/farhan-jahan.jpg" alt="Farhan Jahan" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Farhan Jahan</h4>
-                <p class="card-subtitle">Doctorant</p>
+                <p class="card-subtitle">Doctorante</p>
 
                 <p class="card-text">
-                    Farhan Jahan est doctorant dans le laboratoire du Dr Güven au CHU Sainte-Justine. Il étudie la manière dont le cerveau d’enfants bilingues traite le langage et la mémoire. Ce qui a commencé comme un projet de maîtrise est devenu une quête pour décoder les patrons cachés de l’esprit. En dehors du laboratoire, Farhan aime lire—et essaie de ne pas trop tout suranalyser.
+                    Farhan Jahan est doctorante à COALab au CHU Sainte-Justine. Elle étudie la manière dont le cerveau d’enfants bilingues traite le langage et la mémoire. Avec une formation en neurosciences, sa recherche combine la neuroimagerie et les neurosciences cognitives afin d’examiner les marqueurs neuronaux précoces du trouble développemental du langage chez les enfants bilingues d’âge préscolaire à l’aide de la fNIRS. En dehors du laboratoire, Farhan aime lire et passer du temps à l’extérieur pour se ressourcer.
                 </p>
 
                 <div class="mt-3">
                     <a href="mailto:farhan.jahan@umontreal.ca" class="btn btn-outline-primary btn-sm">Courriel</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profil</a>
+                    <a href="https://www.linkedin.com/in/farhan-jahan-a58250238/" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profil</a>
                 </div>
             </div>
         </div>
@@ -201,15 +200,18 @@ COALab réunit des chercheuses et chercheurs issus de parcours variés en orthop
 
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
+            <img src="/assets/img/team/lorna-mcgregor-smith.jpg" alt="Lorna McGregor Smith" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Lorna McGregor Smith</h4>
                 <p class="card-subtitle">Doctorante</p>
 
-                <!-- Bio courte à ajouter -->
+                <p class="card-text">
+                    Lorna McGregor Smith est doctorante à COALab. Ses recherches portent sur le potentiel de l’intelligence artificielle en orthophonie et sur la personnalisation des traitements. Avec une formation en linguistique et en mathématiques, elle souhaite contribuer au développement des connaissances en orthophonie d’une manière qui aide les personnes et améliore les applications cliniques. En dehors du laboratoire, elle est active dans le journalisme étudiant.
+                </p>
 
                 <div class="mt-3">
-                    <a href="mailto:lorna.mcgregorsmith@umontreal.ca" class="btn btn-outline-primary btn-sm">Courriel</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profil</a>
+                    <a href="mailto:lorna.emgs@gmail.com" class="btn btn-outline-primary btn-sm">Courriel</a>
+                    <a href="https://www.linkedin.com/in/lorna-mcgregor-smith-77a041188/" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profil</a>
                 </div>
             </div>
         </div>
@@ -255,27 +257,64 @@ COALab réunit des chercheuses et chercheurs issus de parcours variés en orthop
 ## Auxiliaires / stagiaires de recherche
 
 <div class="row">
-  <div class="col-md-4 mb-4">
-    <div class="team-card card h-100">
-      <img src="/assets/img/team/qingyi-xu.png" alt="Portrait de Qingyi Xu" class="card-img-top">
+    <div class="col-md-4 mb-4">
+        <div class="team-card card h-100">
+            <img src="/assets/img/team/qingyi-xu.png" alt="Portrait de Qingyi Xu" class="card-img-top">
 
-      <div class="card-body">
-        <h4 class="card-title">Qingyi Xu</h4>
-        <p class="card-subtitle">Étudiant en Sciences de la santé (CÉGEP) · Stagiaire de recherche</p>
+            <div class="card-body">
+                <h4 class="card-title">Qingyi Xu</h4>
+                <p class="card-subtitle">Étudiant en sciences de la santé au CÉGEP · Stagiaire de recherche</p>
 
-        <p class="card-text">
-          Qingyi Xu est étudiant en Sciences de la santé au Collège Brébeuf et membre de COALab. Il est récipiendaire de la <em>Bourse d’Initiation à la recherche (BIRC)</em> et contribue au développement de méthodes de dépistage précoce des troubles de la parole et du langage à l’aide de l’apprentissage automatique basé sur la voix. Il prévoit poursuivre des études en médecine.
-        </p>
+                <p class="card-text">
+                    Qingyi Xu est étudiant en sciences de la santé au Collège Brébeuf et membre de COALab. Il est récipiendaire de la <em>Bourse d’Initiation à la recherche (BIRC)</em> et contribue au développement de méthodes de dépistage précoce des troubles de la parole et du langage à l’aide de l’apprentissage automatique basé sur la voix. Il prévoit poursuivre des études en médecine.
+                </p>
 
-        <div class="mt-3">
-          <a href="mailto:qingyi.xu@outlook.com" class="btn btn-outline-primary btn-sm">Courriel</a>
-          <a href="https://linkedin.com/in/qingyxu" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
+                <div class="mt-3">
+                    <a href="mailto:qingyi.xu@outlook.com" class="btn btn-outline-primary btn-sm">Courriel</a>
+                    <a href="https://linkedin.com/in/qingyxu" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-</div>
 
+    <div class="col-md-4 mb-4">
+        <div class="team-card card h-100">
+            <img src="/assets/img/team/carolina-gambacorta.png" alt="Carolina Gambacorta" class="card-img-top">
+
+            <div class="card-body">
+                <h4 class="card-title">Carolina Gambacorta</h4>
+                <p class="card-subtitle">Étudiante au baccalauréat en neurosciences · Stagiaire de recherche</p>
+
+                <p class="card-text">
+                    Carolina Gambacorta est étudiante au baccalauréat en neurosciences à l’Université de Montréal. Dans le cadre de son stage de recherche, elle explore la manière dont le cerveau d’enfants bilingues traite le langage et la mémoire, avec un intérêt particulier pour le neurodéveloppement, la cognition et les mécanismes d’apprentissage. Passionnée par le travail auprès des enfants, elle est particulièrement motivée par la recherche pouvant soutenir leur apprentissage et leur bien-être.
+                </p>
+
+                <div class="mt-3">
+                    <a href="mailto:carolina.gambacorta@umontreal.ca" class="btn btn-outline-primary btn-sm">Courriel</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="team-card card h-100">
+            <img src="/assets/img/team/vanessa-charles.jpg" alt="Vanessa Charles" class="card-img-top">
+
+            <div class="card-body">
+                <h4 class="card-title">Vanessa Charles</h4>
+                <p class="card-subtitle">Étudiante en médecine · Stagiaire de recherche</p>
+
+                <p class="card-text">
+                    Vanessa Charles est étudiante en médecine à l’Université de Montréal et s’intéresse particulièrement à la pédiatrie et au développement du langage. Son intérêt pour l’orthophonie découle de son désir de mieux comprendre les défis de communication chez les jeunes. Grâce à ce projet de recherche, elle souhaite approfondir ses connaissances et contribuer à une meilleure compréhension des enjeux liés à la santé pédiatrique.
+                </p>
+
+                <div class="mt-3">
+                    <a href="mailto:vanessacharles173@gmail.com" class="btn btn-outline-primary btn-sm">Courriel</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 ## Ancien·ne·s du laboratoire
 
 ### Ancien·ne·s (maîtrise)
