@@ -128,7 +128,7 @@ COALab brings together researchers from diverse backgrounds across speech-langua
                 <p class="card-subtitle">PhD Student</p>
 
                 <p class="card-text">
-                    Han Yao is a PhD student at COALab working on cognitive models of reading and dyslexia in bilingual children. He is also interested in number reading, arithmetic abilities, and dyscalculia, and how these relate to reading and dyslexia. He has a background in theoretical linguistics (semantics, pragmatics, and psycholinguistics) and cognitive science.
+                    Han Yao is a PhD student at COALab working on cognitive models of reading and dyslexia in bilingual children. He is also interested in number reading, arithmetic abilities, and dyscalculia, and how these relate to reading and dyslexia. He has a background in theoretical linguistics, semantics, pragmatics, psycholinguistics, and cognitive science.
                 </p>
 
                 <div class="mt-3">
@@ -181,19 +181,18 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 <div class="row">
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
-            <!-- No photo yet: use placeholder -->
-            <img src="/assets/img/team/placeholder.png" alt="Farhan Jahan" class="card-img-top">
+            <img src="/assets/img/team/farhan-jahan.jpg" alt="Farhan Jahan" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Farhan Jahan</h4>
                 <p class="card-subtitle">PhD Student</p>
 
                 <p class="card-text">
-                    Farhan Jahan is a PhD student in Dr. Güven’s lab at CHU Sainte-Justine, exploring how bilingual children’s brains handle language and memory. What started as a master’s project became a quest to decode the hidden patterns of the mind. When not in the lab, Farhan enjoys reading—and trying not to overthink everything.
+                    Farhan Jahan is a PhD student in COALab at CHU Sainte-Justine, exploring how bilingual children’s brains process language and memory. With a background in neuroscience, her research combines neuroimaging and cognitive neuroscience to investigate early neural markers of developmental language disorder in bilingual preschoolers using fNIRS. Outside the lab, Farhan enjoys reading and spending time outdoors to recharge.
                 </p>
 
                 <div class="mt-3">
                     <a href="mailto:farhan.jahan@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                    <a href="https://www.linkedin.com/in/farhan-jahan-a58250238/" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profile</a>
                 </div>
             </div>
         </div>
@@ -201,57 +200,18 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 
     <div class="col-md-4 mb-4">
         <div class="team-card card h-100">
-            <!-- Photo not provided yet -->
-            <!-- <img src="/assets/img/team/lorna-mcgregor-smith.jpg" alt="Lorna McGregor Smith" class="card-img-top"> -->
+            <img src="/assets/img/team/lorna-mcgregor-smith.jpg" alt="Lorna McGregor Smith" class="card-img-top">
             <div class="card-body">
                 <h4 class="card-title">Lorna McGregor Smith</h4>
                 <p class="card-subtitle">PhD Student</p>
 
-                <!-- Short bio to be added -->
+                <p class="card-text">
+                    Lorna McGregor Smith is a PhD student at COALab researching the potential of AI in speech-language therapy and personalising treatment. With a background in linguistics and mathematics, she is passionate about developing our understanding of speech-language pathology in a way that helps people and improves clinical applications. Outside of the lab, she is active in student journalism.
+                </p>
 
                 <div class="mt-3">
-                    <a href="mailto:lorna.mcgregorsmith@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-## Master’s Students
-
-<div class="row">
-    <div class="col-md-4 mb-4">
-        <div class="team-card card h-100">
-            <!-- Photo not provided yet -->
-            <!-- <img src="/assets/img/team/aya-hadil-kiriba.jpg" alt="Aya Hadil Kiriba" class="card-img-top"> -->
-            <div class="card-body">
-                <h4 class="card-title">Aya Hadil Kiriba</h4>
-                <p class="card-subtitle">Master’s Student</p>
-
-                <!-- Short bio to be added -->
-
-                <div class="mt-3">
-                    <a href="mailto:aya.kiriba@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-4 mb-4">
-        <div class="team-card card h-100">
-            <!-- Photo not provided yet -->
-            <!-- <img src="/assets/img/team/gwenhael-morwan.jpg" alt="Gwenhael Morwan" class="card-img-top"> -->
-            <div class="card-body">
-                <h4 class="card-title">Gwenhael Morwan</h4>
-                <p class="card-subtitle">Master’s Student</p>
-
-                <!-- Short bio to be added -->
-
-                <div class="mt-3">
-                    <a href="mailto:gwenhael.morwan@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="#" class="btn btn-outline-primary btn-sm">Profile</a>
+                    <a href="mailto:lorna.emgs@gmail.com" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="https://www.linkedin.com/in/lorna-mcgregor-smith-77a041188/" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profile</a>
                 </div>
             </div>
         </div>
@@ -261,25 +221,63 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 ## Undergraduate Research Assistants / Interns
 
 <div class="row">
-  <div class="col-md-4 mb-4">
-    <div class="team-card card h-100">
-      <img src="/assets/img/team/qingyi-xu.png" alt="Qingyi Xu headshot" class="card-img-top">
+    <div class="col-md-4 mb-4">
+        <div class="team-card card h-100">
+            <img src="/assets/img/team/qingyi-xu.png" alt="Qingyi Xu" class="card-img-top">
 
-      <div class="card-body">
-        <h4 class="card-title">Qingyi Xu</h4>
-        <p class="card-subtitle">Health Sciences CEGEP Student · Research Intern</p>
+            <div class="card-body">
+                <h4 class="card-title">Qingyi Xu</h4>
+                <p class="card-subtitle">Health Sciences CEGEP Student · Research Intern</p>
 
-        <p class="card-text">
-          Qingyi Xu is a Health Sciences CEGEP student at Collège Brébeuf and a member of COALab. He is a recipient of the Bourse d’Initiation à la recherche (BIRC) and works on the development of early detection methods for speech-language pathologies using voice-based machine learning. He plans to pursue medicine in the future.
-        </p>
+                <p class="card-text">
+                    Qingyi Xu is a Health Sciences CEGEP student at Collège Brébeuf and a member of COALab. He is a recipient of the Bourse d’Initiation à la recherche (BIRC) and works on the development of early detection methods for speech-language pathologies using voice-based machine learning. He plans to pursue medicine in the future.
+                </p>
 
-        <div class="mt-3">
-          <a href="mailto:qingyi.xu@outlook.com" class="btn btn-outline-primary btn-sm">Email</a>
-          <a href="https://linkedin.com/in/qingyxu" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
+                <div class="mt-3">
+                    <a href="mailto:qingyi.xu@outlook.com" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="https://linkedin.com/in/qingyxu" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="team-card card h-100">
+            <img src="/assets/img/team/carolina-gambacorta.png" alt="Carolina Gambacorta" class="card-img-top">
+
+            <div class="card-body">
+                <h4 class="card-title">Carolina Gambacorta</h4>
+                <p class="card-subtitle">Undergraduate Neuroscience Student · Research Intern</p>
+
+                <p class="card-text">
+                    Carolina Gambacorta is an undergraduate neuroscience student at the Université de Montréal. In her work as a research intern, she explores how bilingual children’s brains process language and memory, with a particular interest in neurodevelopment, cognition, and learning mechanisms. Passionate about working with children, she is especially motivated by research that can support their learning and well-being.
+                </p>
+
+                <div class="mt-3">
+                    <a href="mailto:carolina.gambacorta@umontreal.ca" class="btn btn-outline-primary btn-sm">Email</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 mb-4">
+        <div class="team-card card h-100">
+            <img src="/assets/img/team/vanessa-charles.jpg" alt="Vanessa Charles" class="card-img-top">
+
+            <div class="card-body">
+                <h4 class="card-title">Vanessa Charles</h4>
+                <p class="card-subtitle">Medical Student · Research Intern</p>
+
+                <p class="card-text">
+                    Vanessa Charles is a medical student at the Université de Montréal with a strong interest in pediatrics and language development. Her interest in speech-language pathology stems from a desire to better understand communication challenges among young people. Through this research project, she hopes to deepen her knowledge and contribute to a better understanding of issues related to pediatric health.
+                </p>
+
+                <div class="mt-3">
+                    <a href="mailto:vanessacharles173@gmail.com" class="btn btn-outline-primary btn-sm">Email</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 ## Lab Alumni
