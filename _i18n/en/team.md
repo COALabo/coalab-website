@@ -94,29 +94,6 @@ COALab brings together researchers from diverse backgrounds across speech-langua
     </div>
 </div>
 
-## Postdoctoral Researchers
-
-<div class="row">
-    <div class="col-md-4 mb-4">
-        <div class="team-card card h-100">
-            <img src="/assets/img/team/redha-touati.png" alt="Redha Touati" class="card-img-top">
-            <div class="card-body">
-                <h4 class="card-title">Redha Touati</h4>
-                <p class="card-subtitle">Postdoctoral Researcher</p>
-
-                <p class="card-text">
-                    Redha Touati is a Researcher at COALAB, applying multimodal AI, statistical modeling, and deep learning to study speech, language, and reading disorders in children. He received his Ph.D. and M.Sc. in Computer Science from the Université de Montréal and completed a postdoctoral fellowship at Polytechnique Montréal. He also worked as an R&amp;D intern at CRIM, a teaching assistant, and a research programmer in private healthcare companies.
-                </p>
-
-                <div class="mt-3">
-                    <a href="mailto:redha.touati.hsj@ssss.gouv.qc.ca" class="btn btn-outline-primary btn-sm">Email</a>
-                    <a href="https://scholar.google.com/citations?user=RzoGVhkAAAAJ&hl=fr" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profile</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 ## PhD Students
 
 <div class="row">
@@ -274,6 +251,28 @@ COALab brings together researchers from diverse backgrounds across speech-langua
 
                 <div class="mt-3">
                     <a href="mailto:vanessacharles173@gmail.com" class="btn btn-outline-primary btn-sm">Email</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4 mb-4">
+        <div class="team-card card h-100">
+            <img src="/assets/img/team/jessica-chamoun.jpg" alt="Jessica Chamoun" class="card-img-top">
+
+            <div class="card-body">
+                <h4 class="card-title">Jessica Chamoun</h4>
+                <p class="card-subtitle">Health Sciences CEGEP Student · Research Intern</p>
+
+                <p class="card-text">
+                    Jessica Chamoun is a Health Sciences CEGEP student at Collège Jean-de-Brébeuf with a strong passion for working with children. Through various volunteer experiences and academic projects, she has developed a particular interest in child development and pediatric health. During this research project, she looks forward to gaining hands-on experience and further exploring the field of pediatrics.
+                </p>
+
+                <div class="mt-3">
+                    <a href="mailto:jessicachamoun777@gmail.com" class="btn btn-outline-primary btn-sm">Email</a>
+                    <a href="https://www.linkedin.com/in/jessica-chamoun-mon-parcours" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">LinkedIn</a>
                 </div>
             </div>
         </div>
