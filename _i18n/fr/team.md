@@ -94,29 +94,6 @@ COALab réunit des chercheuses et chercheurs issus de parcours variés en orthop
     </div>
 </div>
 
-## Chercheurs postdoctoraux
-
-<div class="row">
-    <div class="col-md-4 mb-4">
-        <div class="team-card card h-100">
-            <img src="/assets/img/team/redha-touati.png" alt="Redha Touati" class="card-img-top">
-            <div class="card-body">
-                <h4 class="card-title">Redha Touati</h4>
-                <p class="card-subtitle">Chercheur postdoctoral</p>
-
-                <p class="card-text">
-                    Redha Touati est chercheur à COALab. Il applique l’IA multimodale, la modélisation statistique et l’apprentissage profond pour étudier les troubles de la parole, du langage et de la lecture chez l’enfant. Il a obtenu un doctorat et une maîtrise en informatique à l’Université de Montréal et a réalisé un stage postdoctoral à Polytechnique Montréal. Il a également travaillé comme stagiaire R&amp;D au CRIM, assistant d’enseignement et programmeur de recherche en entreprise (secteur de la santé).
-                </p>
-
-                <div class="mt-3">
-                    <a href="mailto:redha.touati.hsj@ssss.gouv.qc.ca" class="btn btn-outline-primary btn-sm">Courriel</a>
-                    <a href="https://scholar.google.com/citations?user=RzoGVhkAAAAJ&hl=fr" class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Profil</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 ## Doctorant·e·s (PhD)
 
 <div class="row">
@@ -315,6 +292,10 @@ COALab réunit des chercheuses et chercheurs issus de parcours variés en orthop
         </div>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-md-4 mb-4">
+   
 ## Ancien·ne·s du laboratoire
 
 ### Ancien·ne·s (maîtrise)
